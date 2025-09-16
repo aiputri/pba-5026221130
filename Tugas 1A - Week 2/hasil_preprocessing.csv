@@ -1,0 +1,1402 @@
+tokens_stemmed,clean_text_final
+"['opsi', 'bayar', 'bank', 'lengkap', 'monopoli', 'blu', 'bca']",opsi bayar bank lengkap monopoli blu bca
+"['bikin', 'niat', 'kalo', 'hujan', 'knp', 'error', 'buka', 'ganti', 'tiga', 'rombak', 'tim', 'jakarta', 'kota', 'tenaga', 'mumpuni', 'malu']",bikin niat kalo hujan knp error buka ganti tiga rombak tim jakarta kota tenaga mumpuni malu
+"['milih', 'setasiun', 'masuk', 'nyamperin', 'tugas', 'nanya', 'ganti', 'bilang', 'tanggung', 'mesen', 'lg', 'tiket', 'pake']",milih setasiun masuk nyamperin tugas nanya ganti bilang tanggung mesen lg tiket pake
+"['bayar', 'pakai', 'qris']",bayar pakai qris
+"['sukaa', 'segi', 'bayar', 'mudah', 'kredivo', 'dana', 'liat', 'jadwal', 'kereta', 'akurat', 'simple', 'banding', 'krl', 'gapernah', 'ngaret', 'ontime', 'kereta', 'dingin', 'fasilitas', 'bersih']",sukaa segi bayar mudah kredivo dana liat jadwal kereta akurat simple banding krl gapernah ngaret ontime kereta dingin fasilitas bersih
+"['lot', 'dana', 'saldo', 'ilang']",lot dana saldo ilang
+"['hmmmm', 'lumayan']",hmmmm lumayan
+"['good', 'job']",good job
+"['fasilitas', 'oke', 'sistem', 'tiket', 'mohon', 'baik', 'salah', 'stasiun', 'ganti', 'moga', 'promo', 'langgan', 'harga', 'murah', 'voucher', 'belanja', 'dampak']",fasilitas oke sistem tiket mohon baik salah stasiun ganti moga promo langgan harga murah voucher belanja dampak
+"['iklan', 'barbar', 'buka', 'lsg', 'iklanmo', 'cepetan', 'mlah', 'buka', 'iklanini', 'penting', 'iklan', 'langgan']",iklan barbar buka lsg iklanmo cepetan mlah buka iklanini penting iklan langgan
+"['ramah', 'guna', 'opsi', 'bayar', 'tiket', 'crash', 'lambat', 'responsif']",ramah guna opsi bayar tiket crash lambat responsif
+"['tuju', 'guna', 'data', 'data', 'pribadi', 'data', 'uang', 'data', 'data', 'coba', 'ngga', 'langsung', 'uninstall']",tuju guna data data pribadi data uang data data coba ngga langsung uninstall
+"['top', 'metode', 'bayar', 'mudah', 'maaf', 'undowload']",top metode bayar mudah maaf undowload
+"['oke', 'antri', 'stasiun', 'prepare', 'jalan', 'bayar', 'qr', 'gopay', 'dana', 'mudah']",oke antri stasiun prepare jalan bayar qr gopay dana mudah
+"['aktif', 'martipay', 'muncul', 'pesan', 'link', 'sufah', 'valid']",aktif martipay muncul pesan link sufah valid
+"['heran', 'update', 'mulu']",heran update mulu
+['lelet'],lelet
+"['fungsi', 'ngnbvb']",fungsi ngnbvb
+"['kode', 'otp', 'dikirim2', 'wa', 'sinyal', 'uda', 'lancar']",kode otp dikirim2 wa sinyal uda lancar
+['bantu'],bantu
+"['tol0l', 'dikit2', 'notif', 'baru', 'dikit2', 'notif', 'baru', 'gblk', 'emang', 'bikin', 'kesel', 'guna', 'auto', 'unistall']",tol0l dikit2 notif baru dikit2 notif baru gblk emang bikin kesel guna auto unistall
+"['bagus', 'sistem', 'bayar', 'edit', 'nmr', 'gopay', 'dana', 'pas', 'bayar', 'karna', 'org', 'nomor', 'waemail', 'singkron', 'gopaydana', 'klo', 'sistem', 'bayar', 'virtual', 'account', 'sy', 'uninstall', 'apk']",bagus sistem bayar edit nmr gopay dana pas bayar karna org nomor waemail singkron gopaydana klo sistem bayar virtual account sy uninstall apk
+"['bagus', 'nyaman', '']",bagus nyaman 
+"['saat', 'bayar', 'sinyal', 'full', '5g', 'tetep', 'muncul', 'layar', 'putih']",saat bayar sinyal full 5g tetep muncul layar putih
+"['guna', 'beli', 'tiket', 'bayar']",guna beli tiket bayar
+"['gabisa', 'hubung', 'gopay', 'blu', 'bca']",gabisa hubung gopay blu bca
+"['bismillahirrahmanirrahim', 'download', 'mudah', 'beli', 'beli', 'tiket', 'pas', 'coba', 'ehh', 'koq', 'metode', 'bayar', 'pakai', 'ewallet', 'tau', 'pakai', 'blu', 'bank', 'uninstall', 'pakai', 'emoney', 'mudah', 'praktis', 'maaf', 'ya']",bismillahirrahmanirrahim download mudah beli beli tiket pas coba ehh koq metode bayar pakai ewallet tau pakai blu bank uninstall pakai emoney mudah praktis maaf ya
+"['daftar', 'masuk', 'masuk', 'internal', 'error', 'mudah', 'daftar']",daftar masuk masuk internal error mudah daftar
+"['daftar', 'muncul', 'notifikasi', 'internal', 'error']",daftar muncul notifikasi internal error
+"['fasilitas', 'transportasi', 'mantap']",fasilitas transportasi mantap
+"['daftar', 'upload', 'id']",daftar upload id
+[],
+"['stasiun', 'lebak', 'bulus', 'pintu', 'masuk', 'sisi', 'arah', 'parkir', 'resmi', 'jalan', 'jauh', 'ramai', 'ngantri', 'masuk', 'bintang', 'stasiun', 'lebak', 'bulus']",stasiun lebak bulus pintu masuk sisi arah parkir resmi jalan jauh ramai ngantri masuk bintang stasiun lebak bulus
+['menganggumkan'],menganggumkan
+"['new', 'comer', '']",new comer 
+"['rating', 'nulis', 'saran', 'training', 'tugas', 'ticketing', 'pintu', 'lebak', 'bulus', 'okt', 'wib', 'ramah', 'langgan']",rating nulis saran training tugas ticketing pintu lebak bulus okt wib ramah langgan
+"['cool', 'application']",cool application
+"['sistem', 'bayar', 'buka', 'hancur', 'dlu', 'pake', 'gopayovo', 'link', 'skrg', 'pake', 'blu', 'bca', 'beli', 'loket', 'kena', 'biaya', 'programer', 'lo', 'busuk', 'ganti2in', 'orang', 'buru2', 'ngupdate']",sistem bayar buka hancur dlu pake gopayovo link skrg pake blu bca beli loket kena biaya programer lo busuk ganti2in orang buru2 ngupdate
+"['bagus', 'metode', 'bayar', 'metode', 'bayar', 'blu', 'bca', 'susah', 'proses', 'bindingnya', 'masuk', 'password', 'sesuai', 'anggap', 'salah', 'mohon', 'baik']",bagus metode bayar metode bayar blu bca susah proses bindingnya masuk password sesuai anggap salah mohon baik
+"['metode', 'bayar', 'blu', 'error', 'gagal', 'cepat', 'baik']",metode bayar blu error gagal cepat baik
+"['bayar', 'susah', 'gabisa', 'pake', 'virtual', 'account']",bayar susah gabisa pake virtual account
+"['ribet', 'topup', 'gmn', 'kembang', 'ni']",ribet topup gmn kembang ni
+"['stasiun', 'ubah', 'jgn', 'stasiun', 'tuju', 'beli', 'pp', 'pulang', 'stasiun', 'sesuai', 'beli', 'repot', 'hrs', 'beli', 'tiket', 'lg']",stasiun ubah jgn stasiun tuju beli pp pulang stasiun sesuai beli repot hrs beli tiket lg
+"['pilih', 'bayar', 'kacau', 'pilih', 'bayar', 'ewallet', 'popular', 'kaya', 'gopay', 'ovo', 'dana', 'pake', 'ewallet', 'gatau', 'coba', 'pake', 'gitu', 'bayar', 'bank', 'bank', 'tinggal', 'dibuatin', 'virtual', 'account', 'beres', 'transfer', 'bang', 'kesan', 'kaya', 'bikin', 'niat', 'mudah', 'guna', 'dapet', 'komisi', 'vendor']",pilih bayar kacau pilih bayar ewallet popular kaya gopay ovo dana pake ewallet gatau coba pake gitu bayar bank bank tinggal dibuatin virtual account beres transfer bang kesan kaya bikin niat mudah guna dapet komisi vendor
+"['bank', 'bayar', 'ny']",bank bayar ny
+"['bayar', 'pakai', 'gopay', 'link', 'qris']",bayar pakai gopay link qris
+"['bayar', 'pake', 'blu', 'error', 'gabisa', 'beli', 'tiket']",bayar pake blu error gabisa beli tiket
+"['update', 'mulu']",update mulu
+"['mass', 'rapid', 'transit', 'mudah', 'ngeribetin', 'suka', 'error', 'beli', 'tiket', 'suka', 'error', 'mending', 'lu', 'benerin', 'bug', 'ken', 'ngomong', 'kasar', 'hadehhh']",mass rapid transit mudah ngeribetin suka error beli tiket suka error mending lu benerin bug ken ngomong kasar hadehhh
+"['bayar', 'ribet', 'pake', 'bank', 'blu', 'master', 'card', 'pake', 'blu', 'bisa2', 'pake', 'isa', 'pake', 'pake', 'alat', 'bayar', 'mudah']",bayar ribet pake bank blu master card pake blu bisa2 pake isa pake pake alat bayar mudah
+"['gabisa', 'pake', 'bca', 'digital']",gabisa pake bca digital
+"['metode', 'bayar', 'ewallet', 'ribet']",metode bayar ewallet ribet
+"['fasilitas', 'tunggu', 'minim', 'stasiun', 'fasilitas', 'nyaaa', 'gembel']",fasilitas tunggu minim stasiun fasilitas nyaaa gembel
+"['biasa', 'suka', 'log', 'oug', 'hilang']",biasa suka log oug hilang
+['nice'],nice
+"['bagus', 'enak', 'adem', 'nyaman', 'mudah', 'mes', 'tiket', 'ny', 'pas', 'ulang', 'jakarta', 'juni']",bagus enak adem nyaman mudah mes tiket ny pas ulang jakarta juni
+"['semanggat', 'bang']",semanggat bang
+['hebaat'],hebaat
+"['ngga', 'bayar', 'pakai', 'astrapay', 'loading', 'mulu']",ngga bayar pakai astrapay loading mulu
+"['transportasi', 'baru', 'dki', 'jakarta', 'rute', 'lebak', 'bulus', 'tuju', 'bundar', 'arah', 'bundar', 'tuju', 'lebak', 'bulus', 'indorihan']",transportasi baru dki jakarta rute lebak bulus tuju bundar arah bundar tuju lebak bulus indorihan
+"['beda', 'lrt', 'mass', 'rapid', 'transit', 'klo', 'salah', 'kereta']",beda lrt mass rapid transit klo salah kereta
+"['gajelas', 'buka', 'yutup', 'lancar', 'buka', 'lot', 'jam', 'sibuk', 'server', 'bapuk']",gajelas buka yutup lancar buka lot jam sibuk server bapuk
+"['bayar', 'pakai', 'ewalllet', 'bayar', 'pakai', 'qris', 'kode', 'batang', 'unduh', 'biaya', 'transportasi', 'mahal']",bayar pakai ewalllet bayar pakai qris kode batang unduh biaya transportasi mahal
+"['suka', 'eror', 'beli', 'tiket']",suka eror beli tiket
+"['beli', 'online', 'bagong', 'monopoli', 'metode', 'bayar', 'perintah', 'turun', 'tangan', 'nie', 'salah', 'fasilitas', 'strategis', 'negara']",beli online bagong monopoli metode bayar perintah turun tangan nie salah fasilitas strategis negara
+"['tuju', 'bandung', 'aplikasi']",tuju bandung aplikasi
+"['susah', 'metode', 'bayar', 'familiar']",susah metode bayar familiar
+"['kaga', 'mulu', 'pin', 'kaga', 'gua', 'kaga', 'pulang', 'bangsatt']",kaga mulu pin kaga gua kaga pulang bangsatt
+"['metode', 'bayar', 'via', 'gojegdana', 'gitu']",metode bayar via gojegdana gitu
+['oke'],oke
+"['tuju', 'mass', 'rapid', 'transit', 'masyarakat', 'alih', 'trasnportasi', 'akses', 'pembayaranya', 'kayak', 'klo', 'biat', 'tiket', 'ovo', 'dn', 'gopay', 'skrng', 'laku', 'saku', 'astrapay', 'mass', 'rapid', 'transit', 'baca', 'saran', 'bayar', 'via', 'wallet', 'ovo', 'gopay', 'dana', 'masyarakat', 'transaksi', 'lalu', 'wallet', 'wallet', 'saku', 'astrapay']",tuju mass rapid transit masyarakat alih trasnportasi akses pembayaranya kayak klo biat tiket ovo dn gopay skrng laku saku astrapay mass rapid transit baca saran bayar via wallet ovo gopay dana masyarakat transaksi lalu wallet wallet saku astrapay
+"['opsi', 'kembang', 'android', 'aktif', 'pakai', 'kalo', 'opsi', 'kembang', 'android', 'aktif', 'hape', 'lelet', 'main', 'harus', 'opsi', 'kembang', 'non', 'aktif', 'guna', 'guna', 'iphone']",opsi kembang android aktif pakai kalo opsi kembang android aktif hape lelet main harus opsi kembang non aktif guna guna iphone
+"['jelek', 'bayar', 'pake', 'bank', 'blu', 'doang', 'astrapay', 'bayak', 'lho', 'jenis', 'bayar']",jelek bayar pake bank blu doang astrapay bayak lho jenis bayar
+['bayar'],bayar
+"['uptd', 'trs', 'buka', 'bgs', 'eror', 'updt']",uptd trs buka bgs eror updt
+[],
+"['metode', 'bayar', 'banyak', 'apps', 'jaman', 'ngebatasin', 'guna', 'segitunya']",metode bayar banyak apps jaman ngebatasin guna segitunya
+[],
+"['info', 'tenant', 'info', 'daftar', 'menu', 'pricelist', 'klik', 'hypr', 'caffein', 'muncul', 'daftar', 'menu', 'harga']",info tenant info daftar menu pricelist klik hypr caffein muncul daftar menu harga
+"['bayar', 'pake', 'blu']",bayar pake blu
+"['mode', 'bayar', 'batas', 'luas']",mode bayar batas luas
+"['pakai', 'nonaktif', 'playstore', 'susah', 'pemberitahuan']",pakai nonaktif playstore susah pemberitahuan
+"['rugi', 'kali', 'bayar', 'isa', 'trouble', 'gagal', 'etik', 'ulang', 'bayar', 'lg', 'alhasil', 'sy', 'beli', 'tiket', 'sma', 'traublerugi', 'bnget', 'si', 'uninstall', 'sihgak', 'guna']",rugi kali bayar isa trouble gagal etik ulang bayar lg alhasil sy beli tiket sma traublerugi bnget si uninstall sihgak guna
+"['metode', 'bayar', 'batas', 'bikin', 'males']",metode bayar batas bikin males
+"['gila', 'nyusahin', 'sampah']",gila nyusahin sampah
+"['instal', 'langsung', 'delete', 'opsi', 'bayar']",instal langsung delete opsi bayar
+"['bayar', 'ribet', 'bsa', 'pake', 'dana']",bayar ribet bsa pake dana
+"['moda', 'raya', 'padu', 'jakarta']",moda raya padu jakarta
+"['top', 'lengkap', 'pke', 'wallet', 'laen']",top lengkap pke wallet laen
+"['parah', 'jelek', 'baru', 'akses']",parah jelek baru akses
+"['update', 'metode', 'bayar', 'opsi', 'ewallet', 'bank', 'tuh', 'ewallet', 'ayo', 'tambahin', 'males', 'mass', 'rapid', 'transit']",update metode bayar opsi ewallet bank tuh ewallet ayo tambahin males mass rapid transit
+"['opsi', 'bayar', 'dikit', 'gopay', 'ovo', 'shopee', 'debit', 'kredit', 'cash', 'lwt', 'indoalfa', 'va']",opsi bayar dikit gopay ovo shopee debit kredit cash lwt indoalfa va
+"['diinstall', 'pilih', 'bayar', 'familiar', 'uninstall', 'mohon', 'metode', 'bayar', 'variasi']",diinstall pilih bayar familiar uninstall mohon metode bayar variasi
+"['bodooh', 'bodoooh', 'bayar', 'susaaaah']",bodooh bodoooh bayar susaaaah
+['akses'],akses
+['bagus'],bagus
+"['metode', 'bayar', 'update']",metode bayar update
+"['guna', 'rakyat']",guna rakyat
+"['bayar', 'batas']",bayar batas
+"['gabisa', 'pake', 'dana', 'mudah', 'sulit', 'adakan', 'metode', 'bayar', 'ewallet']",gabisa pake dana mudah sulit adakan metode bayar ewallet
+"['pegembang', 'apaannnn']",pegembang apaannnn
+"['tgl', 'jam', 'error', 'bayar', 'metode', 'isa', 'tolong', 'baik', 'eror', 'pagi', 'rugi', 'guna']",tgl jam error bayar metode isa tolong baik eror pagi rugi guna
+"['kocak', 'bayar', 'pake', 'ovodanagopay', 'mudah', 'memper', 'sulit']",kocak bayar pake ovodanagopay mudah memper sulit
+"['uninstalllll', 'susah', 'topup', 'bayar', 'cuman', 'ewallet', 'tenar', 'jarang', 'orang', 'pakai', 'astrapay', 'isa', 'jaman', 'maju', 'mass', 'rapid', 'transit', 'mundur', 'bayar', 'pakai', 'tf', 'bank', 'wallet', 'populer', 'gopay', 'ovo', 'shopeepay', 'mudah', 'orang', 'sulit']",uninstalllll susah topup bayar cuman ewallet tenar jarang orang pakai astrapay isa jaman maju mass rapid transit mundur bayar pakai tf bank wallet populer gopay ovo shopeepay mudah orang sulit
+[],
+"['istri', 'wedding']",istri wedding
+"['proses', 'bayar', 'error', 'akun', 'ewallet', 'hubung', 'akun', 'pake', 'isa', 'astrapay', 'akun', 'gagal', 'laku', 'bayar', 'notif', 'bayar', 'tix', 'id', 'error', 'tiba2', 'tix', 'id', 'random', 'coba', 'hasil', 'tiket', 'pesan', 'double', 'gimana', 'cerita', 'batal', 'mantap']",proses bayar error akun ewallet hubung akun pake isa astrapay akun gagal laku bayar notif bayar tix id error tiba2 tix id random coba hasil tiket pesan double gimana cerita batal mantap
+"['jelek', 'pakai']",jelek pakai
+"['updat', 'aneh', 'metode', 'bayar', 'praktis', 'hapus']",updat aneh metode bayar praktis hapus
+"['top', 'pakai', 'qris', 'dana', 'gopay', 'bikin', 'ribet', 'jangkau', 'luas', 'terimakasih']",top pakai qris dana gopay bikin ribet jangkau luas terimakasih
+"['buka', 'tulis', 'kembang', 'trus', 'suruh', 'mati', 'hp', 'restart', 'buka']",buka tulis kembang trus suruh mati hp restart buka
+"['kacau', 'pagi', 'mu', 'order', 'tiket', 'error', 'pilih', 'bayar', 'untung', 'bawa', 'emoney']",kacau pagi mu order tiket error pilih bayar untung bawa emoney
+"['ni', 'bayar', 'mass', 'rapid', 'transit', 'jakarta', 'tiba2', 'data', 'kosong', 'coba', 'jelasin']",ni bayar mass rapid transit jakarta tiba2 data kosong coba jelasin
+"['coba', 'beli', 'tiket', 'eh', 'metode', 'bayar', 'bener2', 'gila']",coba beli tiket eh metode bayar bener2 gila
+"['aneh', 'beli', 'tiket', 'metode', 'bayar', 'field', 'checkout', 'set', 'metode', 'bayar', 'profile', 'ewallet', 'bank']",aneh beli tiket metode bayar field checkout set metode bayar profile ewallet bank
+"['payah', 'bayar', 'repot']",payah bayar repot
+"['salah', 'klik', 'beli', 'tiket', 'gabisa', 'refund', 'parah', 'gabisa', 'cancel']",salah klik beli tiket gabisa refund parah gabisa cancel
+"['ribet', 'beli', 'tiket']",ribet beli tiket
+"['pakai', 'ni', 'update', 'sulit', 'guna', 'kecewa']",pakai ni update sulit guna kecewa
+[],
+"['bayar', 'sulit', 'update', 'langsung', 'terinstal']",bayar sulit update langsung terinstal
+"['akun', 'deteksi', 'opsi', 'kembang', 'maksud', 'sy', 'masuk']",akun deteksi opsi kembang maksud sy masuk
+"['mode', 'bayar', 'bank', 'tambahin', 'blu', 'doang']",mode bayar bank tambahin blu doang
+"['tambahin', 'bayar', 'pake', 'gopay', 'dana', 'plisss']",tambahin bayar pake gopay dana plisss
+"['update', 'sampah', 'ni', 'guna', 'bayar', 'pake', 'ewallet', 'astra', 'bank', 'blu', 'doang', 'sarat', 'penting', 'usaha', 'pikir', 'penting', 'masyarakat', 'bumn', 'transportasi', 'milik', 'negaradaerah', 'personal', 'lucu', 'negeri', 'parah', 'kacaw', 'penuh', 'penting', 'pribadi']",update sampah ni guna bayar pake ewallet astra bank blu doang sarat penting usaha pikir penting masyarakat bumn transportasi milik negaradaerah personal lucu negeri parah kacaw penuh penting pribadi
+"['payment', 'online', 'jarang', 'orang', 'pakai', 'bikin', 'ribet', 'balikin', 'donk', 'wallet', 'gopay', 'ovo']",payment online jarang orang pakai bikin ribet balikin donk wallet gopay ovo
+"['metode', 'bayar', 'astrapay', 'isa', 'blu', 'batas', 'orang', 'okupansi', 'mass', 'rapid', 'transit', 'ribu', 'rata2', 'pakai', 'ribu', 'alias', 'kapasitas', 'klo', 'maksimal', 'luas', 'kanal', 'metode', 'bayar', 'populer', 'shopeepay', 'gopay', 'via', 'mobile', 'banking']",metode bayar astrapay isa blu batas orang okupansi mass rapid transit ribu rata2 pakai ribu alias kapasitas klo maksimal luas kanal metode bayar populer shopeepay gopay via mobile banking
+"['developer', 'sedia', 'metode', 'bayar', 'ewallet', 'dana', 'ovo', 'gopay', 'mudah', 'konsumen', 'jga', 'klo', 'metode', 'bayar', 'jarang', 'pakai', 'sulit']",developer sedia metode bayar ewallet dana ovo gopay mudah konsumen jga klo metode bayar jarang pakai sulit
+['top'],top
+"['kembali', 'ewallet', '', 'ku', 'pakai', 'gopay', 'braktis']",kembali ewallet  ku pakai gopay braktis
+"['gabisa', 'pake', 'gopay']",gabisa pake gopay
+"['apk', 'tolol', 'kode', 'otp']",apk tolol kode otp
+"['kali', 'beli', 'ticket', 'munculbaru', 'jadi', 'konfirm', 'blubca', 'gabisa', 'refund', 'konfirm', 'langsung', 'ribet', 'jujur', 'salah', 'customer', 'detail', 'info', 'curiga']",kali beli ticket munculbaru jadi konfirm blubca gabisa refund konfirm langsung ribet jujur salah customer detail info curiga
+"['error', 'cs', 'solutif', 'thanks']",error cs solutif thanks
+"['parah', 'bayar', 'ewallet', 'dikuranginlama2', 'sulit', 'penumpangmending', 'bawa', 'kendara', 'pribadi', 'tranportasi', 'sulit']",parah bayar ewallet dikuranginlama2 sulit penumpangmending bawa kendara pribadi tranportasi sulit
+"['suka', 'mrttapi', 'update', 'wallet', 'bank', 'hilang', 'sisa', '3tiga', 'metode', 'bayar', 'sajasaya', 'kecewakarna', 'sulit', 'konsumensaya', 'harap', 'evaluasi', 'lagibank', 'wallet', 'kembali']",suka mrttapi update wallet bank hilang sisa 3tiga metode bayar sajasaya kecewakarna sulit konsumensaya harap evaluasi lagibank wallet kembali
+"['uninstall', 'pake', 'gopay']",uninstall pake gopay
+"['wallet', 'ko', 'rangin', 'bikin', 'ribet']",wallet ko rangin bikin ribet
+"['mrr', 'keren', 'aman', 'nyaman', 'mahal', 'adain', 'promo']",mrr keren aman nyaman mahal adain promo
+"['bayar', 'pake', 'dana', 'gojek', 'hilang', 'bagus']",bayar pake dana gojek hilang bagus
+"['balikin', 'sistem', 'bayar', 'pakai', 'gopai', 'shopeepay', 'bank', 'bca', 'ribet', 'pakai', 'blu', 'astra', 'apa', 'repot', 'konsumen', 'pakai', 'mass', 'rapid', 'transit']",balikin sistem bayar pakai gopai shopeepay bank bca ribet pakai blu astra apa repot konsumen pakai mass rapid transit
+"['pake', 'gopay', 'auto', 'uninstall', 'minat']",pake gopay auto uninstall minat
+"['angin', 'hujan', 'tiba2', 'konfirmasi', 'pin', 'muncul', 'pesan', 'nomor', 'block', 'menit']",angin hujan tiba2 konfirmasi pin muncul pesan nomor block menit
+"['baharu', 'aplikasi', 'metode', 'bayar', 'ilang2an', 'pakai', 'general', 'ovo', 'gopay', 'blu']",baharu aplikasi metode bayar ilang2an pakai general ovo gopay blu
+"['eror', 'transaksi', 'pakai', 'blu', 'hasil', 'tiket', 'muncul', 'fitur', 'doang', 'diupdate', 'fungsi']",eror transaksi pakai blu hasil tiket muncul fitur doang diupdate fungsi
+"['buka', 'deteksi', 'opsi', 'kembang', 'hrs', 'mati', 'dl', 'gmn', 'matiin', 'opsi', 'kembang', 'kl']",buka deteksi opsi kembang hrs mati dl gmn matiin opsi kembang kl
+"['pake', 'mode', 'pengembanagn', 'mode', 'aktif', 'versi', 'aman']",pake mode pengembanagn mode aktif versi aman
+"['seasik', 'bayar', 'pake', 'dana', 'skrg', 'ribet']",seasik bayar pake dana skrg ribet
+"['pake', 'wallet', 'kayak', 'sumpah', 'pake', 'astrapay', 'isa', 'susah', 'top']",pake wallet kayak sumpah pake astrapay isa susah top
+"['bayar', 'batas', 'jarang', 'punya', 'orang']",bayar batas jarang punya orang
+"['abis', 'update', 'ribet']",abis update ribet
+"['akun', 'daftar', 'ulang', 'bayar', 'pake', 'wallet', 'muter', 'kaya', 'gansing']",akun daftar ulang bayar pake wallet muter kaya gansing
+"['aplikasi', 'bagus', 'daftar', 'akun', 'mrtnya', 'mudah', 'register', 'akun', 'suka', 'failed']",aplikasi bagus daftar akun mrtnya mudah register akun suka failed
+"['bayar', 'ribet', 'pake', 'wallet', 'aneh']",bayar ribet pake wallet aneh
+"['log', 'mpay', 'dikit', 'pilih']",log mpay dikit pilih
+['daftar'],daftar
+"['bayar', 'pake', 'blu', 'verifikasi', 'akun', 'selesai', 'login', 'tulis', 'fail', 'fetch', 'data', 'server', 'ewalletnya', 'banyak', 'linkaja', 'ovo', 'dana']",bayar pake blu verifikasi akun selesai login tulis fail fetch data server ewalletnya banyak linkaja ovo dana
+"['daftar', 'lengkap', 'data', 'atur', 'akun', 'ribet', 'download', 'astra', 'isa', 'bayar', 'keren', 'kai', 'access', 'sayang', 'mass', 'rapid', 'transit', 'gabisa', 'pake', 'kai', 'access']",daftar lengkap data atur akun ribet download astra isa bayar keren kai access sayang mass rapid transit gabisa pake kai access
+"['gabisa', 'daftar', 'bulan']",gabisa daftar bulan
+"['orang', 'pakai']",orang pakai
+"['iniudah', 'installgiliran', 'masukin', 'kode', 'otp', 'kirim', 'kode', 'otp']",iniudah installgiliran masukin kode otp kirim kode otp
+"['daftar', 'bisaudah', 'bbrpa', 'coba', 'tetep', 'daftar', 'jugaudah', 'coba', 'hape', 'nomer', 'berbedatapi', 'tetep', 'anehbuang', 'kuota']",daftar bisaudah bbrpa coba tetep daftar jugaudah coba hape nomer berbedatapi tetep anehbuang kuota
+"['register', 'susah', 'kode', 'kirim', 'valid']",register susah kode kirim valid
+"['oyi', 'tok']",oyi tok
+"['bodoh', 'dunia', 'registrasi', 'eror', 'bodoh']",bodoh dunia registrasi eror bodoh
+"['bawa', 'kartu', 'nikarna', 'beli', 'pake', 'rempong']",bawa kartu nikarna beli pake rempong
+"['beli', 'tiket', 'pakai', 'ewallet', 'dana']",beli tiket pakai ewallet dana
+"['bayar', 'pake', 'gopay', 'ovo', 'paksa', 'pake', 'astrapay', 'blu', 'saku', 'sulit', 'guna', 'jijik']",bayar pake gopay ovo paksa pake astrapay blu saku sulit guna jijik
+"['daftar', 'bilang', 'kode', 'verifikasi', 'salah', 'sesuai']",daftar bilang kode verifikasi salah sesuai
+['best'],best
+"['kecewa', 'dahhh', 'pake', 'ewallet', 'dana', 'gopay', 'ovo', 'adahilangduhhhhh']",kecewa dahhh pake ewallet dana gopay ovo adahilangduhhhhh
+"['susah', 'login']",susah login
+"['pemgisian', 'saldo', 'sulit']",pemgisian saldo sulit
+[],
+['bagus'],bagus
+"['jelek', 'apsnya', 'susah', 'login']",jelek apsnya susah login
+"['close', 'cek', 'jadwal']",close cek jadwal
+"['pakai', 'ovo', 'gopay', 'dana']",pakai ovo gopay dana
+"['bagus', 'bgttapi', 'payment', 'pakek', 'ewallet', 'parah', 'mending', 'klo', 'payment', 'kagak', 'trus', 'gimana', 'kacauuuu']",bagus bgttapi payment pakek ewallet parah mending klo payment kagak trus gimana kacauuuu
+[],
+"['bayar', 'susahhh', 'enak', 'pake', 'gopay', 'ovo']",bayar susahhh enak pake gopay ovo
+"['bulan', 'pakai', 'mass', 'rapid', 'transit', 'app', 'dana', 'gopay', 'eh', 'uninstall']",bulan pakai mass rapid transit app dana gopay eh uninstall
+"['ribet', 'bayar', 'pake', 'wallet', 'skrg', 'kasih', 'pilih', 'wallet', 'jarang', 'orang', 'pake']",ribet bayar pake wallet skrg kasih pilih wallet jarang orang pake
+"['gila', 'bisa', 'bayar', 'via', 'gopay', 'diilangin']",gila bisa bayar via gopay diilangin
+"['dah', 'bayar', 'pake', 'gopay']",dah bayar pake gopay
+[],
+['daftar'],daftar
+"['bug', 'mulu']",bug mulu
+['lumayan'],lumayan
+"['wallet', 'astra', 'pay', 'saku', 'gopay', 'dana']",wallet astra pay saku gopay dana
+"['akun', 'hilang', 'daftar']",akun hilang daftar
+"['good', 'job']",good job
+"['mudah', 'sulit', 'payment', 'ewallet', 'hapus', 'aneh']",mudah sulit payment ewallet hapus aneh
+"['bantu', 'jalan']",bantu jalan
+"['daftar', 'hasil', 'sendiribagaimana', 'pakai', 'benah']",daftar hasil sendiribagaimana pakai benah
+['bagus'],bagus
+"['aaplikasinya', 'bagus']",aaplikasinya bagus
+['good'],good
+"['daftar', 'mentok', 'otp', 'karna', 'ngak', 'kirim', 'kirim']",daftar mentok otp karna ngak kirim kirim
+"['bayar', 'pake', 'gopay', 'ovo', 'mudah', 'sulit', 'bayar', 'tiket', 'uninstall', 'kepake', 'aplikasi']",bayar pake gopay ovo mudah sulit bayar tiket uninstall kepake aplikasi
+"['nyaman', 'bayar', 'pakai', 'gopay', 'ovo']",nyaman bayar pakai gopay ovo
+[],
+"['warga', 'jakarta', 'kelas', 'dunia']",warga jakarta kelas dunia
+"['metode', 'bayar', 'batas', 'blu', 'saku', 'pakai']",metode bayar batas blu saku pakai
+"['verifikasi', 'hp']",verifikasi hp
+"['mantap', 'joss']",mantap joss
+"['payment', 'channel', 'beli', 'tiket', 'batas', 'metode', 'orang', 'pakai']",payment channel beli tiket batas metode orang pakai
+"['uninstall', 'apknya', 'krna', 'skrg', 'ribet', 'metode', 'bayar', 'ewallet', 'sprti', 'ovo', 'gopay']",uninstall apknya krna skrg ribet metode bayar ewallet sprti ovo gopay
+"['juli', 'sulit', 'uninstall', 'metode', 'gopay', 'ovo', 'sedia']",juli sulit uninstall metode gopay ovo sedia
+['terimajasih'],terimajasih
+[],
+"['bantu', 'tingkat', 'aktivitas']",bantu tingkat aktivitas
+"['bayar', 'pake', 'ovo', 'dana', 'males', 'pakenya']",bayar pake ovo dana males pakenya
+['repot'],repot
+"['ramah', 'biaya', 'unsur', 'politik', 'bisnis', 'males']",ramah biaya unsur politik bisnis males
+[],
+['mantapp'],mantapp
+"['payah', 'opsi', 'bayar', 'link', 'link', 'pindah', 'gopay', 'gopay', 'mohon', 'tingkat']",payah opsi bayar link link pindah gopay gopay mohon tingkat
+"['ber', 'kali2', 'reset', 'password', 'tetep', 'bilang', 'salah', 'password', 'heran']",ber kali2 reset password tetep bilang salah password heran
+"['dear', 'teamtolong', 'tambah', 'fitur', 'history', 'fitur', 'cek', 'saldo', 'mass', 'rapid', 'transit', 'multi', 'tripterima', 'kasihsemangat', 'team']",dear teamtolong tambah fitur history fitur cek saldo mass rapid transit multi tripterima kasihsemangat team
+"['bikin', 'ribet', 'ngilangin', 'metode', 'bayar', 'gopay']",bikin ribet ngilangin metode bayar gopay
+"['wallet', 'ovogopay', 'dkk', 'hapus', 'ribet']",wallet ovogopay dkk hapus ribet
+"['bikin', 'ribet', 'dah', 'bagus', 'bayar', 'pakai', 'gopayovodana', 'sulit', 'alternatif', 'bayar', 'hilang', 'ewallet']",bikin ribet dah bagus bayar pakai gopayovodana sulit alternatif bayar hilang ewallet
+['good'],good
+['bantu'],bantu
+"['bayar', 'dikit', 'parah']",bayar dikit parah
+['coba'],coba
+"['bintang', 'yaasaya', 'download', 'apk', 'coba', 'moga', 'muas']",bintang yaasaya download apk coba moga muas
+"['mending', 'macem', 'kai', 'acces', 'bayar', 'qris', 'macem2', 'dompet', 'digital', 'dipake']",mending macem kai acces bayar qris macem2 dompet digital dipake
+"['ksih', 'bintang', 'bgus', 'ksih', 'bintang']",ksih bintang bgus ksih bintang
+"['kesell', 'bngttt', 'bagus2', 'bayar', 'dana', 'tpi', 'dihapuss', 'org', 'tau', 'ngeselin', 'bngtt']",kesell bngttt bagus2 bayar dana tpi dihapuss org tau ngeselin bngtt
+"['uninstall', 'karna', 'ngga', 'bayar', 'pake', 'ov', 'gpay']",uninstall karna ngga bayar pake ov gpay
+"['bayar', 'pake', 'ovo', 'gopay']",bayar pake ovo gopay
+"['kemarin', 'msh', 'bayar', 'pake', 'opsi', 'ovo', 'knp', 'skrng', 'opsi', 'bayar', 'dana', 'ovo', 'knp', 'hrs', 'pke', 'astra', 'pay']",kemarin msh bayar pake opsi ovo knp skrng opsi bayar dana ovo knp hrs pke astra pay
+"['guna', 'semenjak', 'bayar', 'batas']",guna semenjak bayar batas
+['bagus'],bagus
+"['uda', 'pakai', 'ewalet', 'kaya', 'gopay', 'ovo', 'link', 'apusin', 'bisnis', 'bisnis', 'bikin', 'susah', 'guna', 'mass', 'rapid', 'transit']",uda pakai ewalet kaya gopay ovo link apusin bisnis bisnis bikin susah guna mass rapid transit
+"['mass', 'rapid', 'transit', 'grade', 'customer', 'mudah', 'accsess', 'mass', 'rapid', 'transit', 'biar', 'transportasi', 'beli', 'tiket', 'ovo', 'dana', 'gopay', 'masyarakat', 'guna', 'juli', 'hilang', 'coba', 'ajar', 'commuter', 'skrg', 'jujur', 'kecewa']",mass rapid transit grade customer mudah accsess mass rapid transit biar transportasi beli tiket ovo dana gopay masyarakat guna juli hilang coba ajar commuter skrg jujur kecewa
+['coba'],coba
+"['gabung', 'mrl', 'acces', 'donk', 'banyak', 'hp']",gabung mrl acces donk banyak hp
+['good'],good
+['mantap'],mantap
+"['uninstal', 'laah', 'download', 'mudah', 'bayar', 'pake', 'gopay', 'ovo', 'eeh', 'hapus', 'metode', 'bayar', 'bye', 'bye']",uninstal laah download mudah bayar pake gopay ovo eeh hapus metode bayar bye bye
+[],
+['bagus'],bagus
+[],
+"['layan', 'professional']",layan professional
+['bantu'],bantu
+"['rim', 'otp', 'sms', 'sekaliii', 'benerin', 'tim', 'develope']",rim otp sms sekaliii benerin tim develope
+"['bijak', 'hilang', 'metode', 'bayar', 'gopayovodana', 'juli', 'bijak', 'manajemen', 'mass', 'rapid', 'transit', 'bodoh', 'jaman', 'purbakala']",bijak hilang metode bayar gopayovodana juli bijak manajemen mass rapid transit bodoh jaman purbakala
+"['sulit', 'daftar', 'kode', 'otp', 'kirim']",sulit daftar kode otp kirim
+['mantap'],mantap
+"['oke', 'boss']",oke boss
+"['nunggu', 'otp', 'uninstall']",nunggu otp uninstall
+[],
+[],
+"['nyoba', 'sihh', 'bismillahirrahmanirrahim']",nyoba sihh bismillahirrahmanirrahim
+['bagus'],bagus
+['good'],good
+"['mantaaph', 'kereen']",mantaaph kereen
+"['cepat', 'aplikasi']",cepat aplikasi
+"['manfaat', 'mass', 'rapid', 'transit']",manfaat mass rapid transit
+"['ribet', 'beli', 'tiket', 'pilih', 'st', 'berangkat', 'tuju', 'salah', 'pilihtiket', 'hangus']",ribet beli tiket pilih st berangkat tuju salah pilihtiket hangus
+"['dapet', 'kode', 'otp']",dapet kode otp
+"['mass', 'rapid', 'transit', 'macet']",mass rapid transit macet
+['crooot'],crooot
+"['bagus', 'mudah']",bagus mudah
+"['mass', 'rapid', 'transit', 'jakarta']",mass rapid transit jakarta
+['mantap'],mantap
+"['bagus', 'kalo', 'lupa', 'bawa', 'kartu', 'emoney']",bagus kalo lupa bawa kartu emoney
+['good'],good
+['bagus'],bagus
+[],
+['jos'],jos
+"['daftar', 'kode', 'otp', 'dpt2', 'guna']",daftar kode otp dpt2 guna
+"['otp', 'registrasi', 'login', 'via', 'google', 'aplikasi', 'suka', 'freeze', 'minimal', 'kasih', 'loading', 'gitu', 'fe', 'bug', 'critical', 'production', 'qa', 'product', 'managernya']",otp registrasi login via google aplikasi suka freeze minimal kasih loading gitu fe bug critical production qa product managernya
+['keren'],keren
+"['ampe', 'ngising', 'beling', 'kode', 'otp', 'kirim']",ampe ngising beling kode otp kirim
+[],
+['juosss'],juosss
+"['daftar', 'kode', 'otp', 'bisa2dari', 'pagi', 'ampe', 'sore']",daftar kode otp bisa2dari pagi ampe sore
+"['bagus', 'publik']",bagus publik
+"['terang', 'kirim', 'otp', 'saat', 'registrasi', 'jelas', 'otp', 'kirim', 'whatsapp', 'tulis', 'kirim', 'whatsapp', 'tulis', 'sms', 'masuk', 'whatsapp', 'gimana']",terang kirim otp saat registrasi jelas otp kirim whatsapp tulis kirim whatsapp tulis sms masuk whatsapp gimana
+['bangga'],bangga
+"['anis', 'rasyid', 'baswedan', 'terimakasih']",anis rasyid baswedan terimakasih
+[],
+['good'],good
+"['kereen', 'mass', 'rapid', 'transit', 'jakarta']",kereen mass rapid transit jakarta
+"['terimakasih', 'mass', 'rapid', 'transit', 'jakarta', 'layan', 'baik', 'singkat', 'hp', 'mati', 'stistora', 'mandiri', 'gagal', 'top', 'saldo', 'emoneyjadinya', 'mba', 'cindy', 'tugas', 'stistora', 'mandiri', 'tawar', 'charge', 'hpnya', 'menit', 'gitu', 'jaring', 'hpku', 'hilang', 'eh', 'mbanya', 'nawarin', 'hotspot', 'karna', 'kalo', 'wifi', 'st', 'login', 'lamaaa', 'alhamdulillah', 'pulang', 'karna', 'layan', 'angkat', 'mba', 'cindy', 'organik', 'orang', 'pelayananny', 'maksimal']",terimakasih mass rapid transit jakarta layan baik singkat hp mati stistora mandiri gagal top saldo emoneyjadinya mba cindy tugas stistora mandiri tawar charge hpnya menit gitu jaring hpku hilang eh mbanya nawarin hotspot karna kalo wifi st login lamaaa alhamdulillah pulang karna layan angkat mba cindy organik orang pelayananny maksimal
+['mantap'],mantap
+['keren'],keren
+"['mantap', 'lolos', 'tiket', 'scan', 'masuk']",mantap lolos tiket scan masuk
+['baik'],baik
+['manthaabzzz'],manthaabzzz
+"['moga', 'berkah']",moga berkah
+['keren'],keren
+['good'],good
+['kocak'],kocak
+"['bantu', 'apknya']",bantu apknya
+['good'],good
+['good'],good
+['good'],good
+['mantap'],mantap
+[],
+['trimksh'],trimksh
+['mantap'],mantap
+"['sistem', 'teknologi', 'sgt', 'jelek', 'flexible', 'account', 'gagal', 'hubung', 'metode', 'bayar', 'ewallet', 'apa', 'nomor', 'handphone', 'ewallet', 'beda', 'dg', 'nomor', 'account', 'trdaftar', 'du', 'hapus', 'akun', 'apliasi', 'matang', 'pasar', 'go', 'public', 'resah']",sistem teknologi sgt jelek flexible account gagal hubung metode bayar ewallet apa nomor handphone ewallet beda dg nomor account trdaftar du hapus akun apliasi matang pasar go public resah
+"['susah', 'login']",susah login
+"['keren', 'aplikasinys']",keren aplikasinys
+['manfaat'],manfaat
+[],
+"['transportasi', 'modern', 'cepat', 'mudah', 'murah']",transportasi modern cepat mudah murah
+['good'],good
+['keren'],keren
+"['mudah', 'simple', 'trims', 'anies']",mudah simple trims anies
+[],
+[],
+[],
+['berguba'],berguba
+['nice'],nice
+"['guna', 'terimakasih', 'info']",guna terimakasih info
+['bagus'],bagus
+['mantab'],mantab
+"['sy', 'ksh', 'bintang', 'coba', 'mass', 'rapid', 'transit']",sy ksh bintang coba mass rapid transit
+"['good', 'job']",good job
+"['bantu', 'jalan', 'nyaman', 'bersih']",bantu jalan nyaman bersih
+[],
+"['praktis', 'ekonomis']",praktis ekonomis
+[],
+"['otp', 'masuk2']",otp masuk2
+"['barakallohu', 'bantu']",barakallohu bantu
+"['lrt', 'best', 'lancar', 'sukses', 'lrt']",lrt best lancar sukses lrt
+['bagus'],bagus
+['top'],top
+['mantab'],mantab
+['mudah'],mudah
+[],
+['tingkat'],tingkat
+"['simple', 'ribet']",simple ribet
+['mantap'],mantap
+"['oke', 'moda', 'transportasi', 'modern']",oke moda transportasi modern
+"['mass', 'rapid', 'transit', 'kerennn']",mass rapid transit kerennn
+"['lok', 'emang', 'iya', 'ntar', 'full']",lok emang iya ntar full
+['mantap'],mantap
+"['download', 'tau', 'moga', 'bantu', 'mksh']",download tau moga bantu mksh
+[''],
+['kerennn'],kerennn
+"['bagus', 'mudah', 'costumer']",bagus mudah costumer
+[],
+"['kocak', 'login', 'google']",kocak login google
+"['kode', 'otp', 'muncul', 'ulang', 'ttp']",kode otp muncul ulang ttp
+"['senang', 'transportasi', 'mudah', 'transportasi', 'simple', 'cepat']",senang transportasi mudah transportasi simple cepat
+"['moga', 'mudah', 'gerak', 'giat', 'warga', 'jakart']",moga mudah gerak giat warga jakart
+[],
+['tau'],tau
+['mantap'],mantap
+"['good', 'apps']",good apps
+['muantab'],muantab
+"['good', 'news']",good news
+['puas'],puas
+['mantaps'],mantaps
+['jos'],jos
+['bagus'],bagus
+"['parah', 'daftar', 'masukin', 'pin', 'cek', 'nomer', 'hp', 'email']",parah daftar masukin pin cek nomer hp email
+['guna'],guna
+['okey'],okey
+['mantap'],mantap
+"['mudah', 'bantu']",mudah bantu
+[],
+"['daftar', 'pakai', 'email', 'nomor', 'telepon', 'kode', 'otp', 'masuk', 'koq', 'kode', 'otp', 'tibatiba', 'aplikasi', 'ngelag', 'kirim', 'wa', 'otpnya', 'pas', 'daftar', 'register', 'failed', 'daftar', 'kaya', 'gimana', 'nyerah', 'pikir', 'maintenance']",daftar pakai email nomor telepon kode otp masuk koq kode otp tibatiba aplikasi ngelag kirim wa otpnya pas daftar register failed daftar kaya gimana nyerah pikir maintenance
+['great'],great
+"['senang', 'keluarga', 'tuju', 'cepat', 'biaya', 'murah']",senang keluarga tuju cepat biaya murah
+"['jelasudah', 'dimasukin', 'otpnya', 'bener', 'tetep', 'wkwkwk', 'milik', 'negara', 'kwalitas', 'jelek', 'dwitnya', 'korup']",jelasudah dimasukin otpnya bener tetep wkwkwk milik negara kwalitas jelek dwitnya korup
+['lola'],lola
+[],
+[],
+"['bug', 'pas', 'login']",bug pas login
+[],
+"['ngebug', 'anjing']",ngebug anjing
+"['payah', 'kode', 'otp', 'gamasuk2']",payah kode otp gamasuk2
+['mntap'],mntap
+"['moga', 'lancar', 'ubah', 'rating', 'ketemu', 'bug']",moga lancar ubah rating ketemu bug
+[],
+"['sering2', 'ngk', 'bsa', 'akses', 'cri', 'mudah', 'sulit']",sering2 ngk bsa akses cri mudah sulit
+"['info', 'kirim', 'nomer', 'konfirmasi', 'data', 'nomer', 'telepon', 'info', 'whats']",info kirim nomer konfirmasi data nomer telepon info whats
+"['keren', 'nieh', 'pakai', 'bantu']",keren nieh pakai bantu
+[''],
+[],
+"['mafia', 'boss', 'nyonya']",mafia boss nyonya
+['good'],good
+[],
+"['bravo', 'mass', 'rapid', 'transit', 'maju', 'pantang', 'mundur', 'jakarta']",bravo mass rapid transit maju pantang mundur jakarta
+['coba2'],coba2
+['keren'],keren
+['bagus'],bagus
+"['pagi', 'login', 'beli', 'tiket', 'stasiun', 'mass', 'rapid', 'transit', 'lebak', 'bulus', 'buka', '', 'beli', 'kartu', 'mtt', 'stasiun', 'rugi', 'ribu', 'jalan', 'kantor', 'jadi', 'kyk', 'gin', 'kali', 'untung', 'gede', 'yaaa']",pagi login beli tiket stasiun mass rapid transit lebak bulus buka  beli kartu mtt stasiun rugi ribu jalan kantor jadi kyk gin kali untung gede yaaa
+"['dipake', 'arang', 'pakai', 'otw', 'grab']",dipake arang pakai otw grab
+[''],
+['good'],good
+['mantap'],mantap
+"['ribet', 'registrasi']",ribet registrasi
+['bantu'],bantu
+[],
+['niceee'],niceee
+"['daftar', 'gimana', 'si', 'nyuruh', 'orang', 'beli', 'tiket', 'akses', 'pake', 'gabisa', 'registrasi', 'kalo', 'bikin', 'insfastruktur', 'fasilitas', 'paket']",daftar gimana si nyuruh orang beli tiket akses pake gabisa registrasi kalo bikin insfastruktur fasilitas paket
+['keren'],keren
+"['good', 'transportation']",good transportation
+['keren'],keren
+"['mass', 'rapid', 'transit', 'jakarta']",mass rapid transit jakarta
+"['gabisa', 'log', 'aneh']",gabisa log aneh
+['mantap'],mantap
+"['bru', 'pake', 'kendala']",bru pake kendala
+['mantap'],mantap
+"['regis', 'manual', 'dikirim2', 'kode', 'coba', 'login', 'gmail', 'baik', 'sistem']",regis manual dikirim2 kode coba login gmail baik sistem
+['senang'],senang
+"['kode', 'otp', 'kirim', 'login', 'via', 'google', 'parah']",kode otp kirim login via google parah
+"['lot', 'tiket', 'mahal', 'mass', 'rapid', 'transit', 'turunin', 'harga', 'tiket', 'oon']",lot tiket mahal mass rapid transit turunin harga tiket oon
+"['register', 'kirim', 'otp', 'wa', 'tulis', 'kirim', 'sms']",register kirim otp wa tulis kirim sms
+"['daftar', 'mudah', 'cepat', 'coba', 'aplikasi']",daftar mudah cepat coba aplikasi
+['dahsyat'],dahsyat
+['good'],good
+[],
+"['susah', 'daftar', 'ny']",susah daftar ny
+"['daftar', 'susdah', 'muncul', 'kode', 'sms']",daftar susdah muncul kode sms
+"['good', 'job']",good job
+['faster'],faster
+['mudah'],mudah
+['mantaap'],mantaap
+[],
+"['update', 'melulu', 'lot', 'parah', 'heran']",update melulu lot parah heran
+"['relogin', 'gantireset', 'password', 'bilang', 'salah', 'abis', 'reset']",relogin gantireset password bilang salah abis reset
+['mantap'],mantap
+"['donk', 'developer', 'baik', 'teknis', 'kode', 'referalnya', 'muncul', 'muncul', 'maaaf', 'diksh', 'bintang', 'mudah', 'mass', 'rapid', 'transit', 'sulit']",donk developer baik teknis kode referalnya muncul muncul maaaf diksh bintang mudah mass rapid transit sulit
+['top'],top
+['mantap'],mantap
+['good'],good
+"['tunjang', 'transportasi', 'handal', 'solusi', 'cegah', 'tambah', 'macet']",tunjang transportasi handal solusi cegah tambah macet
+"['kode', 'otpnya', 'muncul']",kode otpnya muncul
+"['wih', 'keren', 'ngebantu']",wih keren ngebantu
+"['good', 'apps']",good apps
+"['good', 'right', 'succeses', 'full']",good right succeses full
+"['alam', 'teman', 'menciba', 'mass', 'rapid', 'transit']",alam teman menciba mass rapid transit
+"['layan', 'bagus']",layan bagus
+['oke'],oke
+['keren'],keren
+"['moga', 'guna']",moga guna
+['bagus'],bagus
+[],
+[],
+"['pake', 'kode', 'verif', 'lwt', 'sms', 'muncul2']",pake kode verif lwt sms muncul2
+['good'],good
+['mantap'],mantap
+['mantap'],mantap
+['goodlah'],goodlah
+"['niat', 'bikin', 'nau', 'dftr', 'kaga']",niat bikin nau dftr kaga
+"['layan', 'jual', 'ticket', 'buka']",layan jual ticket buka
+[],
+['mantap'],mantap
+['jos'],jos
+['good'],good
+[],
+['good'],good
+['mantab'],mantab
+[],
+"['cepat', 'nyaman', 'aman']",cepat nyaman aman
+"['good', 'job']",good job
+['mantap'],mantap
+"['login', 'via', 'akun', 'google', 'daftar', 'akun', 'paa', 'konfirmasi', 'sms', 'masuk', 'niat', 'bikin']",login via akun google daftar akun paa konfirmasi sms masuk niat bikin
+['keren'],keren
+"['transportasi', 'jakarta', 'bantu', 'mass', 'rapid', 'transit', 'jakarta', 'mudah', 'guna', 'transportasi']",transportasi jakarta bantu mass rapid transit jakarta mudah guna transportasi
+[],
+"['mudah', 'jangkau']",mudah jangkau
+"['blom', 'coba', 'smoga', 'aplikasi', 'mudah', 'jalan', '']",blom coba smoga aplikasi mudah jalan 
+[],
+"['bagus', 'bantu', 'terimakasih']",bagus bantu terimakasih
+['ribet'],ribet
+['mantap'],mantap
+['ntaps'],ntaps
+['bagus'],bagus
+"['keren', 'mass', 'rapid', 'transit', 'jakarta']",keren mass rapid transit jakarta
+['good'],good
+"['bikin', 'akun', 'gabisa', 'otp', 'capek']",bikin akun gabisa otp capek
+"['validasi', 'via', 'sms', 'email', 'bikin', 'akun', 'parah', 'pagi', 'siang', 'malam', 'coba', 'tetep', 'gagal']",validasi via sms email bikin akun parah pagi siang malam coba tetep gagal
+"['ngak', 'aplikasi', 'install', 'pas', 'akun', 'kode', 'kirim', 'hp', 'ngak', 'masuk2', 'install', 'uninstall', '3x', 'ngak', 'akun']",ngak aplikasi install pas akun kode kirim hp ngak masuk2 install uninstall 3x ngak akun
+[],
+"['jitu', 'hindar', 'macet']",jitu hindar macet
+['mantap'],mantap
+"['pnya', 'usaha', 'samping', 'jual', 'hp', '2nd', 'ngandelin', 'mass', 'rapid', 'transit', 'meet', 'beli', 'stasiun', 'meet', 'cod', 'pintu', 'batas', 'tap', 'masuk', 'mass', 'rapid', 'transit', 'kluar', 'stasiun', 'sy', 'lakuin', 'pas', 'stasiun', 'tmpat', 'tap', 'prnah', 'beli', 'tiket', 'kali', 'tap', 'kluar', 'trus', 'tugas', 'cewek', 'pke', 'hijab', 'kacamata', 'mass', 'rapid', 'transit', 'blok', 'jam', 'beli', 'tiket', 'tap']",pnya usaha samping jual hp 2nd ngandelin mass rapid transit meet beli stasiun meet cod pintu batas tap masuk mass rapid transit kluar stasiun sy lakuin pas stasiun tmpat tap prnah beli tiket kali tap kluar trus tugas cewek pke hijab kacamata mass rapid transit blok jam beli tiket tap
+['bug'],bug
+"['lumayan', 'bantu']",lumayan bantu
+"['transportasi', 'publik', 'nyaman', 'cepat']",transportasi publik nyaman cepat
+['good'],good
+['bagus'],bagus
+"['mudah', 'kali', 'naek', 'mass', 'rapid', 'transit', 'bayar', 'pake', 'link']",mudah kali naek mass rapid transit bayar pake link
+['bantu'],bantu
+"['transportasi', 'bagus']",transportasi bagus
+['good'],good
+"['kode', 'otp', 'salah', 'etik', 'sesuai', 'kirim']",kode otp salah etik sesuai kirim
+"['sya', 'bom', 'coba', 'apknya', 'sya', 'memeberikan', 'bintang', 'kerja', 'karna', 'kartu', 'mrtnya', 'terimakasih', 'bpk']",sya bom coba apknya sya memeberikan bintang kerja karna kartu mrtnya terimakasih bpk
+[],
+"['sedia', 'masker', 'langgan', 'masker', 'putusrobektdk', 'sesuai', 'suruh', 'beli', 'diindomaret', 'mass', 'rapid', 'transit', 'sedia', 'stok', 'ganggu', 'nyaman', 'langgan']",sedia masker langgan masker putusrobektdk sesuai suruh beli diindomaret mass rapid transit sedia stok ganggu nyaman langgan
+"['mudah', 'cepat']",mudah cepat
+['good'],good
+['kereennnn'],kereennnn
+['bagis'],bagis
+"['bagus', 'mudah']",bagus mudah
+['mantap'],mantap
+['mantab'],mantab
+['mantap'],mantap
+['good'],good
+"['moga', 'manfaat']",moga manfaat
+['bantu'],bantu
+"['mantap', 'tolong', 'beli', 'kartu', 'bawa', 'anak', 'scan', 'beres']",mantap tolong beli kartu bawa anak scan beres
+"['mantap', 'mass', 'rapid', 'transit', 'jakarta']",mantap mass rapid transit jakarta
+['bagus'],bagus
+"['tahan', 'prestasi', 'mu', 'tingkat', 'layan']",tahan prestasi mu tingkat layan
+['mudah'],mudah
+['mudah'],mudah
+"['otp', 'lancat']",otp lancat
+['mantab'],mantab
+"['alam', 'nieehhhsemoga', 'seru', 'senang']",alam nieehhhsemoga seru senang
+['keren'],keren
+"['mudah', 'apalikasinya']",mudah apalikasinya
+"['nyaman', 'bersih', 'tempuh', 'bagus']",nyaman bersih tempuh bagus
+"['easy', 'praktis']",easy praktis
+[],
+"['bagus', 'manfaat']",bagus manfaat
+"['download', 'coba', 'fitur2']",download coba fitur2
+"['mass', 'rapid', 'transit', 'history', 'jalan']",mass rapid transit history jalan
+"['oke', 'pokoke']",oke pokoke
+"['payah', 'aplikasi']",payah aplikasi
+['bagus'],bagus
+[],
+"['nyaman', 'transportasi', 'publik']",nyaman transportasi publik
+['good'],good
+"['moga', 'manfaat']",moga manfaat
+['naice'],naice
+[],
+['awesome'],awesome
+"['stasiun', 'bhi', 'mantap']",stasiun bhi mantap
+[],
+"['aplikaainya', 'bikin', 'panik', 'failed', 'load', 'server']",aplikaainya bikin panik failed load server
+['top'],top
+['moga'],moga
+['top'],top
+"['tingkat', 'layan']",tingkat layan
+['good'],good
+[],
+[],
+"['moga', 'lancar', 'aq', 'pernqh', 'coba']",moga lancar aq pernqh coba
+"['registrasi', 'ribet']",registrasi ribet
+"['daftar', 'pakai', 'ni', 'minggu', 'pas', 'login', 'error', 'apps', 'emang', 'beda', 'rada', 'niat', 'bikin', 'mudah', 'super', 'ribet', 'error']",daftar pakai ni minggu pas login error apps emang beda rada niat bikin mudah super ribet error
+"['aplikadi', 'bego', 'download', 'eror']",aplikadi bego download eror
+"['error', 'harap', 'baik', 'cepat']",error harap baik cepat
+"['rip', 'digit', 'code']",rip digit code
+"['jelek', 'bet', 'asli']",jelek bet asli
+"['bos', 'kalo', 'release', 'cek', 'internal', 'masuk', 'release', 'publik', 'pake', 'palsu', 'muji2']",bos kalo release cek internal masuk release publik pake palsu muji2
+[],
+"['applikasi', 'payahtutup', 'aj', 'katro', 'registrasi', 'ulang']",applikasi payahtutup aj katro registrasi ulang
+"['amazing', 'love', 'bngt']",amazing love bngt
+['daftar'],daftar
+['jioss'],jioss
+['alhamdulillah'],alhamdulillah
+[],
+['bantu'],bantu
+['mantap'],mantap
+['bagus'],bagus
+"['mudah', 'mantap']",mudah mantap
+"['bagus', 'mudah', 'bayar']",bagus mudah bayar
+"['mantap', 'dah', 'mass', 'rapid', 'transit', 'jakarta']",mantap dah mass rapid transit jakarta
+[],
+"['mudah', 'bantu']",mudah bantu
+['bagus'],bagus
+[],
+"['bintang', 'coba']",bintang coba
+"['aplikasi', 'error', 'daftar']",aplikasi error daftar
+['coba'],coba
+[],
+['mantap'],mantap
+['good'],good
+"['jokowi', 'thanks']",jokowi thanks
+"['bagus', 'daftar', 'kode', 'kirim', 'whatsapp', 'kirim', 'coba', 'kirim', 'ulang', 'kirim', 'nomor', 'hape', 'notif', 'email']",bagus daftar kode kirim whatsapp kirim coba kirim ulang kirim nomor hape notif email
+"['payment', 'gagal', 'internet', 'lancar']",payment gagal internet lancar
+"['mass', 'rapid', 'transit', 'jakarta', 'oke']",mass rapid transit jakarta oke
+['apik'],apik
+"['transportasi', 'keren', 'jakarta', 'rekomended']",transportasi keren jakarta rekomended
+[],
+"['guna', 'moga', 'benarbenar', 'bantu', 'jalan']",guna moga benarbenar bantu jalan
+"['keren', 'efisein']",keren efisein
+['mantap'],mantap
+"['urus', 'warga', 'mudah', 'ayom']",urus warga mudah ayom
+"['sangatt', 'bagus']",sangatt bagus
+"['akses', 'mudah']",akses mudah
+"['manfaat', 'bgttt']",manfaat bgttt
+"['kacau', 'mass', 'rapid', 'transit', 'telat', '4menit', 'masuk', 'beli', 'tiket', 'tiket', 'refoud']",kacau mass rapid transit telat 4menit masuk beli tiket tiket refoud
+"['dukung', 'user', 'mass', 'rapid', 'transit']",dukung user mass rapid transit
+['failed'],failed
+"['mass', 'rapid', 'transit', 'jalan']",mass rapid transit jalan
+"['best', 'transportasi']",best transportasi
+['goooddd'],goooddd
+"['keren', 'bantu', 'maju', 'mass', 'rapid', 'transit', 'jakarta']",keren bantu maju mass rapid transit jakarta
+['error'],error
+['coba'],coba
+['bagus'],bagus
+[],
+"['proses', 'buat', 'akun', 'mudah']",proses buat akun mudah
+['mantap'],mantap
+"['ngelag', 'kali', 'kali', 'tahap', 'verifikasi']",ngelag kali kali tahap verifikasi
+"['otp', 'berkalikali', 'gagal', 'bobot', 'bikin', 'kaya', 'payah']",otp berkalikali gagal bobot bikin kaya payah
+['good'],good
+['terimakasih'],terimakasih
+"['nyaman', 'tepat']",nyaman tepat
+['bagus'],bagus
+['mantappp'],mantappp
+"['neng', 'mass', 'rapid', 'transit', 'nyaman', 'dancepat']",neng mass rapid transit nyaman dancepat
+[],
+"['daftartrus', 'kehapusdownload', 'ulang', 'pas', 'login', 'bisamasa', 'ganti', 'hp', 'emailbijimana', 'neh']",daftartrus kehapusdownload ulang pas login bisamasa ganti hp emailbijimana neh
+['keren'],keren
+['oke'],oke
+['mbagus'],mbagus
+"['baik', 'tahan', 'opsional']",baik tahan opsional
+['bantu'],bantu
+"['mass', 'rapid', 'transit', 'cobq', 'pake']",mass rapid transit cobq pake
+['mantap'],mantap
+"['nice', 'application']",nice application
+"['baguss', 'aplikasi', 'isi', 'informasi', 'erti']",baguss aplikasi isi informasi erti
+['good'],good
+['moga'],moga
+[],
+['lumayan'],lumayan
+['best'],best
+[],
+['great'],great
+"['nyaman', 'layan', 'muas']",nyaman layan muas
+"['bad', 'ui']",bad ui
+[],
+"['bagus', 'manfaat']",bagus manfaat
+[],
+"['masalah', 'tiba2', 'akun', 'hapus']",masalah tiba2 akun hapus
+[],
+"['manfaat', 'apk', 'rombong', 'satpam', 'ramah', 'proses', 'scan', 'cepat']",manfaat apk rombong satpam ramah proses scan cepat
+"['bener', 'bug', 'dah']",bener bug dah
+"['serius', 'aktif', 'beli', 'jam', 'sesuai', 'tanggal', 'yah', 'beli', 'jam', 'pagi', 'expired', 'jam', 'pagi']",serius aktif beli jam sesuai tanggal yah beli jam pagi expired jam pagi
+['good'],good
+[],
+['good'],good
+['skem'],skem
+['mantap'],mantap
+[],
+"['kecewa', 'si', 'dg', 'apk', 'dn', 'layan', 'wa', 'solusi', 'saran', 'kdpnnya', 'org', 'salah', 'pilih', 'tuju', 'hrs', 'edit', 'trus', 'hrs', 'saldo', 'kmbali', 'angus', 'layan', 'wa', 'hnya', 'nnya', 'compln', 'tanggap', 'dn', 'langsung', 'cakap', 'tnpa', 'info', 'si', 'compln', 'kaya', 'nyesel', 'asa', 'yah', 'ganti', 'tuh', 'tuju', 'skrg', 'jujur', 'kecewa', 'si', 'smpah']",kecewa si dg apk dn layan wa solusi saran kdpnnya org salah pilih tuju hrs edit trus hrs saldo kmbali angus layan wa hnya nnya compln tanggap dn langsung cakap tnpa info si compln kaya nyesel asa yah ganti tuh tuju skrg jujur kecewa si smpah
+"['akun', 'hapus']",akun hapus
+['manfaat'],manfaat
+"['akun', 'tiba2', 'hapus', 'trus', 'pas', 'coba', 'daftar', 'pake', 'email', 'gabisa', 'masuk', 'gmail', 'gabisa', 'tulis', 'dibenerin', 'gilir', 'dibutuhin', 'nyusahin']",akun tiba2 hapus trus pas coba daftar pake email gabisa masuk gmail gabisa tulis dibenerin gilir dibutuhin nyusahin
+['good'],good
+['akakakaama'],akakakaama
+"['transportasi', 'massal', 'cepat', 'nyaman', 'integrasi', 'modal', 'transportasi']",transportasi massal cepat nyaman integrasi modal transportasi
+[],
+['ngga'],ngga
+['zahrah'],zahrah
+['bagus'],bagus
+[],
+"['mosok', 'akun', 'hapus']",mosok akun hapus
+"['kereennn', '']",kereennn 
+"['masuk', 'kode', 'otp', 'salah']",masuk kode otp salah
+"['tiba2', 'bayar', 'oakai', 'gopay', 'daftar', 'ulang', 'pakai', 'nomor', 'hadeh']",tiba2 bayar oakai gopay daftar ulang pakai nomor hadeh
+"['mudah', 'bagus', 'mass', 'rapid', 'transit', 'jakarta']",mudah bagus mass rapid transit jakarta
+"['mass', 'rapid', 'transit', 'hormat', 'laaaaaaaaaaaaaaaaaaaaaa', 'wooooooiiii', 'beginiiiiii', 'azzzz', 'niat', 'mudah', 'hidup', 'balik']",mass rapid transit hormat laaaaaaaaaaaaaaaaaaaaaa wooooooiiii beginiiiiii azzzz niat mudah hidup balik
+['nyaman'],nyaman
+"['jalan', 'cepat', 'terimakasih']",jalan cepat terimakasih
+['mantaaappppp'],mantaaappppp
+['mantap'],mantap
+[],
+"['pas', 'scan', 'tiket', 'masuk', 'scannernya', 'kadang', 'susah', 'deteksi']",pas scan tiket masuk scannernya kadang susah deteksi
+['bagus'],bagus
+['mantap'],mantap
+['bagus'],bagus
+['bagusss'],bagusss
+"['update', 'android', 'dah', 'tap', 'scan', 'msk', 'mnt', 'ubah', 'kode', 'hrs', 'refresh', 'dl']",update android dah tap scan msk mnt ubah kode hrs refresh dl
+['good'],good
+"['bintang', 'nyusul', 'kalo', 'good']",bintang nyusul kalo good
+"['tuju', 'transportasi']",tuju transportasi
+['okeh'],okeh
+['nice'],nice
+['bantu'],bantu
+['jos'],jos
+"['capek', 'turun', 'platform', 'krl', 'jabodetabek', 'khalayak', 'bermacammacam', 'dg', 'mass', 'rapid', 'transit', 'jakarta', 'sy', 'aman', 'masuk', 'gerbong', 'dg', 'platform', 'datar', 'tumpang', 'perhati', 'sehat', 'prokes', 'level', 'orang', 'kantor', 'tuju', 'sy', 'bayar', 'mahal', 'dg', 'mobil', 'online', 'asa', 'secure', 'nyaman', 'sy', 'sbg', 'lansia', 'usia', 'capek', 'pergi', 'dg', 'mass', 'rapid', 'transit', 'jakarta']",capek turun platform krl jabodetabek khalayak bermacammacam dg mass rapid transit jakarta sy aman masuk gerbong dg platform datar tumpang perhati sehat prokes level orang kantor tuju sy bayar mahal dg mobil online asa secure nyaman sy sbg lansia usia capek pergi dg mass rapid transit jakarta
+"['test', 'dlu', 'pake']",test dlu pake
+"['salah', 'pilih', 'edit', 'uang', 'direfund', 'beli']",salah pilih edit uang direfund beli
+[],
+['oke'],oke
+[],
+"['bintang', 'kerja', 'outdoor', 'hobi', 'mass', 'rapid', 'transit', 'klender']",bintang kerja outdoor hobi mass rapid transit klender
+['keren'],keren
+[''],
+"['force', 'close', 'abis', 'download', 'nyoba', 'bentar', 'lancar', 'tinggal', 'jam', 'jelasbenerin', 'appnya', 'biar', 'ngesupport', 'orang', 'make', 'transport', 'jugakayak', 'appnya', 'krl', 'tuh', 'bagus']",force close abis download nyoba bentar lancar tinggal jam jelasbenerin appnya biar ngesupport orang make transport jugakayak appnya krl tuh bagus
+['good'],good
+"['bagus', 'mantap']",bagus mantap
+[],
+['layan'],layan
+[],
+"['mudah', 'cepat']",mudah cepat
+['bantu'],bantu
+[],
+"['scan', 'qr', 'masukkeluar', 'cepat']",scan qr masukkeluar cepat
+['bagus'],bagus
+"['indonesia', 'maju']",indonesia maju
+"['mudah', 'hidup']",mudah hidup
+"['good', 'jop']",good jop
+['bagus'],bagus
+"['muas', 'mass', 'rapid', 'transit']",muas mass rapid transit
+"['alam', 'pake', 'muas', 'bantu', 'beli', 'tiket', 'mudah', 'qr', 'code', 'masalah', 'tap', 'tap', 'stasiun', 'tugas', 'lapang', 'ramah', 'bantu', 'keluarga', 'kali', 'mass', 'rapid', 'transit', 'jakarta']",alam pake muas bantu beli tiket mudah qr code masalah tap tap stasiun tugas lapang ramah bantu keluarga kali mass rapid transit jakarta
+['mantul'],mantul
+['bagus'],bagus
+"['mass', 'rapid', 'transit', 'jakarta', 'oke']",mass rapid transit jakarta oke
+['bagus'],bagus
+['manfaat'],manfaat
+['bagus'],bagus
+[],
+"['manfaat', 'card', 'biasa']",manfaat card biasa
+"['moga', 'engga', 'lot', 'eror', 'aplikasi']",moga engga lot eror aplikasi
+[],
+['akses'],akses
+"['keren', 'appnya']",keren appnya
+[],
+['mantap'],mantap
+['good'],good
+['mantap'],mantap
+['mantap'],mantap
+"['kali', 'daftar', 'mass', 'rapid', 'transit', 'jakarta']",kali daftar mass rapid transit jakarta
+['semangat'],semangat
+"['coba', 'oke', 'tambah', 'nya']",coba oke tambah nya
+['nyoba'],nyoba
+"['saran', 'metode', 'shopepay']",saran metode shopepay
+['mantap'],mantap
+[],
+['cuss'],cuss
+['bagus'],bagus
+[],
+"['easy', 'use']",easy use
+[],
+['keren'],keren
+[],
+['kuntul'],kuntul
+['good'],good
+['woke'],woke
+['bagus'],bagus
+['bagus'],bagus
+['bagus'],bagus
+['sangt'],sangt
+"['2x', 'beli', 'tiket', 'gopay', 'tiket', 'muncul', 'beli', 'saldo', 'gopay', 'potong', '2x', 'muncul', 'tiket', 'tunggu', 'menit', 'efisien', 'pake', 'apps']",2x beli tiket gopay tiket muncul beli saldo gopay potong 2x muncul tiket tunggu menit efisien pake apps
+['mantap'],mantap
+"['mass', 'rapid', 'transit', 'jakarta', 'rubah', 'wajah', 'jakarta', 'love', 'jakarta']",mass rapid transit jakarta rubah wajah jakarta love jakarta
+"['guna', 'bantu', 'aktifitas', 'hari2', '']",guna bantu aktifitas hari2 
+['excellent'],excellent
+['bagus'],bagus
+['keren'],keren
+"['bagus', 'layan', 'ber', 'cepat', 'tuju']",bagus layan ber cepat tuju
+['bagus'],bagus
+"['senang', 'gabung']",senang gabung
+"['daftar', 'layan', 'publik', 'beli', 'tiket', 'paksa', 'beli', 'kartu']",daftar layan publik beli tiket paksa beli kartu
+['otpnya'],otpnya
+"['driver', 'ramah']",driver ramah
+"['blom', 'mass', 'rapid', 'transit']",blom mass rapid transit
+"['nyaman', 'bertransfortasi']",nyaman bertransfortasi
+[''],
+['good'],good
+['kereeeennn'],kereeeennn
+"['terimakasih', 'layan', 'tulus', 'mass', 'rapid', 'transit']",terimakasih layan tulus mass rapid transit
+"['coba', 'yah']",coba yah
+['mudah'],mudah
+['mantap'],mantap
+"['bersih', 'nyaman', 'aman', 'bagus', 'moga', 'mass', 'rapid', 'transit', 'nambah', 'rute', 'kota', 'bogor']",bersih nyaman aman bagus moga mass rapid transit nambah rute kota bogor
+['mula'],mula
+['coba'],coba
+['keren'],keren
+['thanks'],thanks
+[],
+['bagus'],bagus
+"['mass', 'rapid', 'transit', 'jakarta', 'moda', 'sarana', 'transportasi', 'publik', 'iklan', 'media', 'masyarakat', 'familiar', 'tingkat', 'sarana', 'layan', 'moda', 'transportasi', '', 'publik', 'nyaman', 'masyarakat', 'alih', 'moda', 'transport', 'pribadi', 'sarana', 'moda', 'transportasi', 'publik', 'kerja', 'tim', 'solid', 'kunci', 'bentuk', 'layan', 'moda', 'transportasi', 'tangguh', 'kelas', 'hormat', 'andri']",mass rapid transit jakarta moda sarana transportasi publik iklan media masyarakat familiar tingkat sarana layan moda transportasi  publik nyaman masyarakat alih moda transport pribadi sarana moda transportasi publik kerja tim solid kunci bentuk layan moda transportasi tangguh kelas hormat andri
+['mantapss'],mantapss
+"['mantul', 'lae']",mantul lae
+['keren'],keren
+['good'],good
+['baik'],baik
+"['akses', 'juli', 'pkl0630']",akses juli pkl0630
+"['ketawa', 'hahaha', 'daftar', 'dpt', 'point', 'lengkap', 'data', 'foto', 'ktp', 'sll', 'link', 'gopay', 'bayar', 'point', 'langsung', 'cek', 'bayar', 'gopay', 'link', 'alias', 'tulis', 'iklan', 'lg', 'hahaha', 'mah', 'apk', 'lucu2an', 'moga', 'baik', 'maaf', 'aplikasi', 'bintang', 'maaf', 'orang', 'jkt']",ketawa hahaha daftar dpt point lengkap data foto ktp sll link gopay bayar point langsung cek bayar gopay link alias tulis iklan lg hahaha mah apk lucu2an moga baik maaf aplikasi bintang maaf orang jkt
+['goodddddd'],goodddddd
+['bagus'],bagus
+['mantap'],mantap
+[],
+['buku'],buku
+['bantu'],bantu
+['ol'],ol
+[],
+['bagus'],bagus
+['batu'],batu
+"['layan', 'bagus']",layan bagus
+"['ive', 'never', 'used', 'theres', 'harm', 'trying', 'easier', 'take', 'mass', 'rapid', 'transit', 'one', 'day', 'good', 'luck', 'mass', 'rapid', 'transit', 'jakarta']",ive never used theres harm trying easier take mass rapid transit one day good luck mass rapid transit jakarta
+['oke'],oke
+"['waoooooo', 'tingkat', 'lagidan']",waoooooo tingkat lagidan
+['buka'],buka
+[],
+"['neng', 'mass', 'rapid', 'transit', 'bersih', 'ontime', 'jugaaa', 'integrasi', 'moda', 'tj', 'krl', 'jaklingko', '']",neng mass rapid transit bersih ontime jugaaa integrasi moda tj krl jaklingko 
+"['kurang', 'macet']",kurang macet
+"['krna', 'liat', 'jadwal', 'mass', 'rapid', 'transit']",krna liat jadwal mass rapid transit
+"['pakesemoga', 'manfaat']",pakesemoga manfaat
+['great'],great
+"['mudah', 'jalan2', 'nyesel', 'donloadnya']",mudah jalan2 nyesel donloadnya
+['keren'],keren
+['bagus'],bagus
+['top'],top
+"['coba', 'unduh', 'keren', 'ajar', 'mass', 'rapid', 'transit', 'bayar', 'orang', 'daerah', 'coba', 'coba', 'ibukota', 'modal', 'smartphone', 'makasih', 'mass', 'rapid', 'transit', 'besok', 'coba', 'test']",coba unduh keren ajar mass rapid transit bayar orang daerah coba coba ibukota modal smartphone makasih mass rapid transit besok coba test
+[''],
+['oke'],oke
+['mantap'],mantap
+['good'],good
+[],
+"['moga', 'lancar']",moga lancar
+['bantu'],bantu
+['nis'],nis
+['good'],good
+['bagus'],bagus
+[],
+"['bagusss', 'kualitas', 'aplikasi']",bagusss kualitas aplikasi
+['mantap'],mantap
+"['bagus', 'mudah', 'jalan', 'jakarta', '']",bagus mudah jalan jakarta 
+[],
+"['mudah', 'manfaat', 'aamiin']",mudah manfaat aamiin
+"['bantu', 'mudah']",bantu mudah
+"['good', 'cepat']",good cepat
+['gud'],gud
+"['mantap', 'mudah', 'masyarakat']",mantap mudah masyarakat
+['mantulss'],mantulss
+"['daftar', 'masukin', 'password', 'failed']",daftar masukin password failed
+"['salah', 'masuk', 'stasiun', 'tuju', 'tukar', 'rubah']",salah masuk stasiun tuju tukar rubah
+"['mohon', 'bantu', 'daftar', 'yaa', '']",mohon bantu daftar yaa 
+"['nyamam', 'ddn', 'sman', 'utama']",nyamam ddn sman utama
+['mntap'],mntap
+"['top', 'markotop']",top markotop
+[],
+['muantabbb'],muantabbb
+"['mudah', 'guna', 'mass', 'rapid', 'transit', 'terimakasih', 'sukses', 'pt']",mudah guna mass rapid transit terimakasih sukses pt
+"['aneh', 'daftar', 'susah']",aneh daftar susah
+['good'],good
+['mantapp'],mantapp
+['good'],good
+['good'],good
+"['sekuriti', 'kasar', 'skali', 'negur', 'klw', 'pake', 'masker', 'baik2', 'boss', 'masker', 'buka', 'sebentar', 'sesak', 'jadi', 'stasiun', 'dukuh', 'bni']",sekuriti kasar skali negur klw pake masker baik2 boss masker buka sebentar sesak jadi stasiun dukuh bni
+['good'],good
+"['bantu', 'pergi']",bantu pergi
+[],
+['bagus'],bagus
+"['pake', 'install']",pake install
+['kereeen'],kereeen
+"['cakep', 'kayak', 'dhe', 'jokowi']",cakep kayak dhe jokowi
+['bagus'],bagus
+[],
+"['maantaapp', 'boskuh']",maantaapp boskuh
+"['moga', 'tranportasi', 'mass', 'rapid', 'transit', 'lancar']",moga tranportasi mass rapid transit lancar
+"['membantunsaya', 'donload', 'terimakash']",membantunsaya donload terimakash
+"['trkadang', 'lot', 'trkadang', 'bgs', '4x', 'uninstall', 'bru', 'donlot', 'masuk', 'akun']",trkadang lot trkadang bgs 4x uninstall bru donlot masuk akun
+['hebat'],hebat
+['keren'],keren
+"['alhamdulillah', 'keren']",alhamdulillah keren
+['oke'],oke
+['bagus'],bagus
+['okee'],okee
+['mantaap'],mantaap
+['mantabss'],mantabss
+['mantap'],mantap
+['mantap'],mantap
+['cakepp'],cakepp
+"['coba', 'layan']",coba layan
+"['keren', 'bgt']",keren bgt
+['mantabs'],mantabs
+[],
+['istimewa'],istimewa
+['mudah'],mudah
+"['bagus', 'cepat']",bagus cepat
+['bagus'],bagus
+['good'],good
+['bagus'],bagus
+"['error', 'bayar', 'pilih', 'stasiun', 'malam', 'ktm', 'pagi']",error bayar pilih stasiun malam ktm pagi
+['praktis'],praktis
+['oke'],oke
+['bagus'],bagus
+"['bagus', 'mantab']",bagus mantab
+['keren'],keren
+[],
+['menggudukasi'],menggudukasi
+"['moga', 'lancar', 'pakai']",moga lancar pakai
+['mantap'],mantap
+"['mba', 'tugas', 'blok', 'bca', 'ngeselin', '2x', 'masuk', 'sulit', 'paksa', 'bli', 'kartu']",mba tugas blok bca ngeselin 2x masuk sulit paksa bli kartu
+['good'],good
+"['mass', 'rapid', 'transit', 'mass', 'rapid', 'transit', 'bayar', 'gaji', 'salah', 'vendor', 'thr', 'gaji', 'bayar', 'waktuthr', 'bayar', 'hari', 'bank', 'terahir', 'operasional', 'itu', 'didatengin', 'rame2', 'kantor', 'vendor', 'alas', 'mass', 'rapid', 'transit', 'tunggak', 'bayar', 'vendor', 'vendor', 'hak', 'pekerjanyaapakah', 'mass', 'rapid', 'transit', 'demikianbahkan', 'gaji', 'bayar', 'tgl', 'undur', 'tgl', 'meiapakah']",mass rapid transit mass rapid transit bayar gaji salah vendor thr gaji bayar waktuthr bayar hari bank terahir operasional itu didatengin rame2 kantor vendor alas mass rapid transit tunggak bayar vendor vendor hak pekerjanyaapakah mass rapid transit demikianbahkan gaji bayar tgl undur tgl meiapakah
+"['smoga', 'ribet', 'aplikasi']",smoga ribet aplikasi
+['mantap'],mantap
+"['korban', 'sales', 'multitrip', 'card', 'emoney', 'card', 'sia', 'beli', 'multitrip', 'card', 'pakai', 'dibusway', 'lgi', 'transaksi', 'emoney']",korban sales multitrip card emoney card sia beli multitrip card pakai dibusway lgi transaksi emoney
+"['mass', 'rapid', 'transit', 'jakarta', 'mantab', 'moga', 'sukse']",mass rapid transit jakarta mantab moga sukse
+[],
+['download'],download
+['bagus'],bagus
+[],
+['bagus'],bagus
+"['coba', 'keren']",coba keren
+['forwarf'],forwarf
+['best'],best
+['mantap'],mantap
+['bagus'],bagus
+['usefull'],usefull
+"['bagus', 'apk', 'jaya', 'mass', 'rapid', 'transit', 'jakarta']",bagus apk jaya mass rapid transit jakarta
+"['update', 'maret', 'freeze', 'splash', 'start', 'screen']",update maret freeze splash start screen
+"['yak', 'akses']",yak akses
+[],
+"['moga', 'bnyk', 'promo', 'mass', 'rapid', 'transit']",moga bnyk promo mass rapid transit
+"['aplikasi', 'lemott', 'menit', 'buka', 'namjn', 'lemott', 'pake', 'wifi', 'masakan', 'lapor', 'tugas', 'lake', 'wifi', 'hambat', 'jalan', 'berangkat', 'kerja', 'please', 'berkali2', 'please', 'solusi', 'tgis', 'trouble', 'senang', 'pake', 'tali', 'lemott', 'nga', 'ampun']",aplikasi lemott menit buka namjn lemott pake wifi masakan lapor tugas lake wifi hambat jalan berangkat kerja please berkali2 please solusi tgis trouble senang pake tali lemott nga ampun
+"['good', 'transportation', 'indonesian']",good transportation indonesian
+['mantab'],mantab
+['mantap'],mantap
+"['keren', 'gampang', 'sen', 'kemarin', 'beli', 'grup', 'orang', 'jdi', 'mass', 'rapid', 'transit', 'bareng', 'temen2', 'kartu']",keren gampang sen kemarin beli grup orang jdi mass rapid transit bareng temen2 kartu
+[],
+"['bagus', 'gan']",bagus gan
+"['moga', 'rute', 'mass', 'rapid', 'transit', 'jakarta', 'rumah', 'kantor', 'pasar', 'pusat', 'belanja', 'bengkel', 'tinggal', 'jalan', 'kaki', 'sebentar', 'langsung', 'langsung', 'tuju', 'moda', 'transportasi', 'tunggu']",moga rute mass rapid transit jakarta rumah kantor pasar pusat belanja bengkel tinggal jalan kaki sebentar langsung langsung tuju moda transportasi tunggu
+"['baru', 'tampil', 'tampil', 'mode', 'gelap', 'lambang', 'pilih', 'tulis']",baru tampil tampil mode gelap lambang pilih tulis
+"['bantu', 'mudah']",bantu mudah
+['bantu'],bantu
+['keren'],keren
+"['good', 'job']",good job
+"['bagus', 'nikmat', 'moda', 'transportasi', 'raya', 'padu', 'mass', 'rapid', 'transit', 'jakarta']",bagus nikmat moda transportasi raya padu mass rapid transit jakarta
+"['mohon', 'jelas', 'beli', 'tiket', 'mass', 'rapid', 'transit', 'senayan', 'blok', 'applikasi', 'mass', 'rapid', 'transit', 'jam', 'jadwal', 'tera', 'kebarangkatan', 'senayan', 'jam', 'diperbolahkan', 'masuk', 'satpam', 'beliau', 'mass', 'rapid', 'transit', 'tutup', 'beliau', 'jadwal', 'berangkat', 'tera']",mohon jelas beli tiket mass rapid transit senayan blok applikasi mass rapid transit jam jadwal tera kebarangkatan senayan jam diperbolahkan masuk satpam beliau mass rapid transit tutup beliau jadwal berangkat tera
+['nice'],nice
+['good'],good
+['keren'],keren
+[],
+"['manteb', 'dah', 'anies']",manteb dah anies
+['good'],good
+['mantap'],mantap
+"['cepat', 'respon']",cepat respon
+"['sekalikereta', 'bersih']",sekalikereta bersih
+"['alhamdulillah', 'moga', 'manfaat']",alhamdulillah moga manfaat
+"['mudah', 'praktis']",mudah praktis
+"['cek', 'saldo', 'kartu', 'mass', 'rapid', 'transit', 'multi', 'trip', 'isi', 'saldo']",cek saldo kartu mass rapid transit multi trip isi saldo
+[],
+"['kode', 'otp', 'bayar']",kode otp bayar
+[],
+"['cm', 'sharing', 'aj', 'atur', 'jgn', 'ketat', 'orng', 'cadar', 'pakai', 'masker', 'aneh', 'si']",cm sharing aj atur jgn ketat orng cadar pakai masker aneh si
+['keren'],keren
+['mantab'],mantab
+"['aplikasi', 'mudah']",aplikasi mudah
+"['baguss', 'mudah']",baguss mudah
+"['bagus', 'mudah']",bagus mudah
+['error'],error
+['keren'],keren
+"['verifikasi', 'ktp', 'baik', 'error']",verifikasi ktp baik error
+"['sgitu', 'dlu', 'klo', 'bgus', 'dtmbahin']",sgitu dlu klo bgus dtmbahin
+"['download', 'liat', 'jadwal', 'mass', 'rapid', 'transit', 'tiba', 'suka', 'error', 'gin', 'baik', 'layan', 'mass', 'rapid', 'transit', 'nyaa']",download liat jadwal mass rapid transit tiba suka error gin baik layan mass rapid transit nyaa
+[],
+['good'],good
+"['eusbuu', '']",eusbuu 
+['bagus'],bagus
+['keren'],keren
+['keren'],keren
+['mantap'],mantap
+[],
+"['bug', 'verifikasi', 'ktp']",bug verifikasi ktp
+"['moga', 'tingkat', 'mutu', 'layan']",moga tingkat mutu layan
+"['pp', 'tmn', 'njnjmjnjmnnnhm', 'ooo', 'lupa', 'pp', 'loop', 'lo', 'lol', 'ko', 'uo']",pp tmn njnjmjnjmnnnhm ooo lupa pp loop lo lol ko uo
+['bagus'],bagus
+"['habis', 'update', 'error', 'failed', 'load', 'gopay', 'status']",habis update error failed load gopay status
+['oke'],oke
+"['versi', 'baru', 'baik', 'schedule', 'kadang', 'sinkron', 'ama', 'aktual']",versi baru baik schedule kadang sinkron ama aktual
+['mantap'],mantap
+"['aplikasi', 'verifikasi', 'ktp', 'ngisi', 'indentitas', 'lai', 'pas', 'mesen', 'tiket', 'sinyal', 'bagus', 'pakek', 'data', 'wifi', 'tetep', 'error', 'mohon', 'developer', 'memeberikan', 'solusi', 'baik']",aplikasi verifikasi ktp ngisi indentitas lai pas mesen tiket sinyal bagus pakek data wifi tetep error mohon developer memeberikan solusi baik
+['bantu'],bantu
+"['tau', 'beli', 'tiket', 'via', 'selesai', 'bayar', 'beli', 'tiket', 'gimana', 'tugas', 'tugas', 'ngasih', 'info', 'beli', 'tiket', 'pakai', 'paksa', 'beli', 'kartu', 'bawa', 'kartu', 'atm', 'topup', 'kartu', 'kartu', 'multitrip', 'debit', 'abis', 'kartu', 'kepake']",tau beli tiket via selesai bayar beli tiket gimana tugas tugas ngasih info beli tiket pakai paksa beli kartu bawa kartu atm topup kartu kartu multitrip debit abis kartu kepake
+"['appnya', 'bagus', 'praktis', 'suka', 'eror', 'koneksi', 'milik', 'wifikuota', 'internet']",appnya bagus praktis suka eror koneksi milik wifikuota internet
+['bantu'],bantu
+"['buka', 'jadwal', 'kereta', 'tutup']",buka jadwal kereta tutup
+"['aplikasi', 'byk', 'bug', 'errornya', 'contoh', 'halaman', 'jadwal', 'pilih', 'stasiun', 'langsung', 'keluarforceclose', 'halaman', 'akun', 'input', 'foto', 'ktp', 'lgsg', 'forceclose', 'baik', 'cek', 'lg']",aplikasi byk bug errornya contoh halaman jadwal pilih stasiun langsung keluarforceclose halaman akun input foto ktp lgsg forceclose baik cek lg
+[],
+"['quick', 'respon']",quick respon
+"['forceclose', 'terusssssssssssss']",forceclose terusssssssssssss
+"['connect', 'gopay']",connect gopay
+"['mantap', 'moga', 'tingkat']",mantap moga tingkat
+['bagus'],bagus
+"['sm', 's21', 'buka']",sm s21 buka
+['bantu'],bantu
+['good'],good
+"['senang', 'nyaman', 'bersih', 'jaga', 'jya', 'ramah', 'bantu']",senang nyaman bersih jaga jya ramah bantu
+"['aplikasi', 'kali', 'liat', 'jadwal', 'jalan', 'kluar']",aplikasi kali liat jadwal jalan kluar
+[''],
+['coba'],coba
+"['erooorrrr', 'force', 'close', 'hp', 'google', 'pixelsebelum2', 'eror', 'abis', 'update', 'br', 'eror']",erooorrrr force close hp google pixelsebelum2 eror abis update br eror
+"['good', 'aplication']",good aplication
+"['bugs', 'upload', 'foto', 'ktp', 'auto', 'tutup']",bugs upload foto ktp auto tutup
+['good'],good
+"['modern', 'transportasi', 'dki']",modern transportasi dki
+"['jalan', 'cepat', 'nyaman']",jalan cepat nyaman
+"['kartu', 'bayar', 'elektronik', 'simple', 'mudah']",kartu bayar elektronik simple mudah
+"['bagus', 'bantu']",bagus bantu
+"['dpermudah', 'masuk', 'akun']",dpermudah masuk akun
+['nyaman'],nyaman
+['baguus'],baguus
+['senang'],senang
+"['praktis', 'beli', 'tiket', 'mending', 'langsung', 'connect', 'ewallet', 'langsung', 'bayar', 'sesuai', 'scan', 'barcode', 'stasiun', 'berangkat', 'stasiun', 'tuju']",praktis beli tiket mending langsung connect ewallet langsung bayar sesuai scan barcode stasiun berangkat stasiun tuju
+"['rating', 'ubah']",rating ubah
+['guud'],guud
+"['ihhiy', 'masuk', 'eko']",ihhiy masuk eko
+['coba'],coba
+"['keren', 'skrng', 'mass', 'rapid', 'transit', 'mudah', 'aplikasi', 'butuh', 'baik', 'verifikasi', 'ktp', 'tap', 'tetep', 'gabisa', 'gpp', 'aplikasi', 'mass', 'rapid', 'transit', 'verifikasi', 'ktp']",keren skrng mass rapid transit mudah aplikasi butuh baik verifikasi ktp tap tetep gabisa gpp aplikasi mass rapid transit verifikasi ktp
+['keren'],keren
+"['syarat', 'gabung']",syarat gabung
+"['bagus', 'manfaat']",bagus manfaat
+['good'],good
+['terimakasih'],terimakasih
+"['pulsa', 'otp', 'lemah']",pulsa otp lemah
+"['keren', 'praktis']",keren praktis
+"['interfacenya', 'jelek']",interfacenya jelek
+"['bagustidak', 'kendala']",bagustidak kendala
+"['bayar', 'shopeepay']",bayar shopeepay
+"['gagal', 'masuk']",gagal masuk
+"['excellent', 'moga', 'tahan', 'layan']",excellent moga tahan layan
+['keren'],keren
+['mantap'],mantap
+"['nyoba', 'dlu']",nyoba dlu
+['manfaat'],manfaat
+[],
+['suka'],suka
+[],
+['buka'],buka
+"['maju', 'ekonomi', 'peting', 'rakyat']",maju ekonomi peting rakyat
+"['mantap', 'guna']",mantap guna
+"['nyaman', 'transportasi']",nyaman transportasi
+"['ubah', 'wujud', 'maju', 'sejahtera', 'masyarakat']",ubah wujud maju sejahtera masyarakat
+"['transportasi', 'publik', 'modern']",transportasi publik modern
+"['keren', 'membantubanyak', 'hadiah', 'give', 'awaynya']",keren membantubanyak hadiah give awaynya
+"['bismillah', 'moga']",bismillah moga
+['mantap'],mantap
+"['bagus', 'aplikasi']",bagus aplikasi
+"['bagus', 'mudah', 'beli', 'tiket', 'nonton', 'film', 'gratis', 'jalan']",bagus mudah beli tiket nonton film gratis jalan
+"['akses', 'mudah']",akses mudah
+['sukaaa'],sukaaa
+['mantap'],mantap
+"['gimana', 'download', 'trs', 'abis', 'registrasi', 'trs', 'app', 'hadehhh', 'emng', 'kalo', 'sistem', 'susah', 'benernya']",gimana download trs abis registrasi trs app hadehhh emng kalo sistem susah benernya
+"['suka', 'knp', 'diupdate', 'buka']",suka knp diupdate buka
+[],
+"['nge', 'bug', 'pakai']",nge bug pakai
+"['maju', 'mass', 'rapid', 'transit', 'inovasi', 'mudah', 'guna']",maju mass rapid transit inovasi mudah guna
+"['moga', 'jaya']",moga jaya
+['yah'],yah
+"['mantap', 'dukung', 'mass', 'rapid', 'transit']",mantap dukung mass rapid transit
+"['bagus', 'mudah', 'guna', 'mass', 'rapid', 'transit']",bagus mudah guna mass rapid transit
+['good'],good
+[],
+"['proses', 'register', 'member', 'mula', 'copat']",proses register member mula copat
+[],
+[],
+[''],
+"['update', 'liat', 'jam', 'datang', 'kereta', 'menit', 'tutup']",update liat jam datang kereta menit tutup
+"['suka', 'forceclosejelek']",suka forceclosejelek
+"['susah', 'susah', 'gampang', 'masuk']",susah susah gampang masuk
+"['mass', 'rapid', 'transit', 'mudah', 'beli', 'ticket', 'jalan', 'informasi', 'status', 'jalan', 'sedia']",mass rapid transit mudah beli ticket jalan informasi status jalan sedia
+['bagus'],bagus
+"['applikasi', 'keren']",applikasi keren
+"['sampah', 'habis', 'update', 'gag', 'liat', 'jadwal', 'beli', 'tiket', 'gag', 'jam', 'sibuk', 'error', 'dumb', 'ass']",sampah habis update gag liat jadwal beli tiket gag jam sibuk error dumb ass
+"['keren', 'bawa', 'anak', 'jln2']",keren bawa anak jln2
+['oke'],oke
+['bantu'],bantu
+[],
+"['mudah', 'langgan']",mudah langgan
+['coba'],coba
+['efisien'],efisien
+['good'],good
+['mantap'],mantap
+['mantap'],mantap
+['mudah'],mudah
+[],
+['bantu'],bantu
+"['mantappppsss', 'jiwaaaa']",mantappppsss jiwaaaa
+['good'],good
+[],
+"['coba', 'kalo', 'bagus', 'bintang', 'penuh']",coba kalo bagus bintang penuh
+['mantap'],mantap
+"['good', 'jobs']",good jobs
+['sesuai'],sesuai
+['mantab'],mantab
+['coba'],coba
+"['tertib', 'aman', 'nyaman', 'prokes', 'bagus']",tertib aman nyaman prokes bagus
+"['good', 'aplikasithanks']",good aplikasithanks
+['bagus'],bagus
+"['pemcobaan', 'smoga', 'bermakana', 'kepegian']",pemcobaan smoga bermakana kepegian
+['nice'],nice
+['mantaaap'],mantaaap
+"['bangga', 'anak', 'indonesia']",bangga anak indonesia
+['oke'],oke
+[],
+"['ksh', 'bintang', 'bagus', 'bintang']",ksh bintang bagus bintang
+"['transportasi', 'bagus']",transportasi bagus
+"['layan', 'bagus']",layan bagus
+['bermafaat'],bermafaat
+['muantab'],muantab
+"['praktis', 'tinggal', 'scan', 'qr', 'linkaja', 'gopay', 'kayak', 'krl', 'kalo', 'beli', 'tiket', 'kesan', 'outdated', 'sistem', 'krl', 'fasilitas', 'mass', 'rapid', 'transit', 'canggih']",praktis tinggal scan qr linkaja gopay kayak krl kalo beli tiket kesan outdated sistem krl fasilitas mass rapid transit canggih
+['pake'],pake
+['nyoba'],nyoba
+['bagus'],bagus
+['bagus'],bagus
+['cucoo'],cucoo
+['good'],good
+"['best', 'aplicasi', '']",best aplicasi 
+"['download', 'moga', 'gaada', 'kendala', 'saat', 'guna']",download moga gaada kendala saat guna
+"['kode', 'refeal', 'update', 'tambah', 'alarm', 'datang', 'tuju']",kode refeal update tambah alarm datang tuju
+['jos'],jos
+"['nyaman', 'coba', 'mass', 'rapid', 'transit']",nyaman coba mass rapid transit
+"['bener2', 'hemat', 'tenaga', 'mass', 'rapid', 'transit', 'jibaku', 'kejar2', 'busway', 'kereta', 'makas', 'mass', 'rapid', 'transit', '']",bener2 hemat tenaga mass rapid transit jibaku kejar2 busway kereta makas mass rapid transit 
+['bgus'],bgus
+"['baikk', 'ramah']",baikk ramah
+"['bantu', 'mudah', 'jalan']",bantu mudah jalan
+"['nothing', 'problems']",nothing problems
+"['mantap', 'tranportasi', 'kelas', 'dunia', 'serasa', 'eropa']",mantap tranportasi kelas dunia serasa eropa
+[],
+['bagus'],bagus
+"['senang', 'apk', 'mass', 'rapid', 'transit', 'jakartatingkat', 'kn', 'kembangkn']",senang apk mass rapid transit jakartatingkat kn kembangkn
+['bug'],bug
+['jelek'],jelek
+['mantap'],mantap
+"['beli', 'kartu']",beli kartu
+['mantap'],mantap
+[],
+['bantu'],bantu
+['bagus'],bagus
+"['error', 'bayar', 'ovo']",error bayar ovo
+"['good', 'app']",good app
+['gembel'],gembel
+"['praktis', 'tinggal', 'scan', 'qr', 'code', 'krl']",praktis tinggal scan qr code krl
+['good'],good
+"['bagus', 'bangt']",bagus bangt
+"['mudah', 'beli', 'tiket', 'pembayarab', 'antri']",mudah beli tiket pembayarab antri
+['layan'],layan
+['maksimal'],maksimal
+"['terimakasih', 'jakarta', 'sehat']",terimakasih jakarta sehat
+['coba'],coba
+['top'],top
+"['sangatt', 'bantu']",sangatt bantu
+"['bantu', 'susah', 'login', 'kali', 'kali', 'gabisa', 'reset', 'pin', 'coba', 'login', 'gabisa', 'mass', 'rapid', 'transit', 'gmn', 'parah']",bantu susah login kali kali gabisa reset pin coba login gabisa mass rapid transit gmn parah
+['mantap'],mantap
+[],
+['ajib'],ajib
+['good'],good
+['keren'],keren
+"['bantu', 'mudah', 'bayar', 'transaksi']",bantu mudah bayar transaksi
+"['kerenga', 'nyangka', 'kalo', 'indonesia', 'keren']",kerenga nyangka kalo indonesia keren
+[],
+['bersih'],bersih
+"['bagus', 'rute', 'mass', 'rapid', 'transit']",bagus rute mass rapid transit
+[],
+"['bersih', 'beut']",bersih beut
+[],
+"['moga', 'kembang', 'banyak', 'promodiskon', 'spt', '10x', 'jalan', 'gratis', '1x', 'jalan', 'tks']",moga kembang banyak promodiskon spt 10x jalan gratis 1x jalan tks
+"['ganggu', 'pagi', 'pagi', 'orang', 'buru', 'buru', 'sibukga', 'malam', 'ganggu', 'notifikasiseperti', 'sms', 'blast', 'wa', 'blast', 'biar', 'guna', 'mass', 'rapid', 'transit', 'tau', 'klo', 'gangguannyusahin', 'lama2', 'kagak', 'laku', 'ni', 'mass', 'rapid', 'transit']",ganggu pagi pagi orang buru buru sibukga malam ganggu notifikasiseperti sms blast wa blast biar guna mass rapid transit tau klo gangguannyusahin lama2 kagak laku ni mass rapid transit
+['moga'],moga
+['keren'],keren
+"['mantap', 'keren', 'aplikasi']",mantap keren aplikasi
+['oke'],oke
+"['tempat', 'bersih', 'nyaman', 'mantul', 'pokok']",tempat bersih nyaman mantul pokok
+"['top', 'pake', 'ovo']",top pake ovo
+"['moga', 'bantu', 'yah']",moga bantu yah
+"['bersih', 'nyaman', 'kereta']",bersih nyaman kereta
+['mantab'],mantab
+['bantu'],bantu
+"['coba', 'nnti', 'bagus']",coba nnti bagus
+"['nyaa', 'serba', 'instan', 'sukaaa', 'bangett', '']",nyaa serba instan sukaaa bangett 
+"['10', 'daftar', 'apk', 'gabisa2', 'failed', 'daftar', 'gilir', 'pakai', 'data', 'lgsg', 'tingkat', 'lg']",10 daftar apk gabisa2 failed daftar gilir pakai data lgsg tingkat lg
+['waw'],waw
+[],
+"['tahan', 'bersih', 'tingkat', 'fasilitas', 'station', 'henti', 'aamiin']",tahan bersih tingkat fasilitas station henti aamiin
+"['anies', 'baswedan']",anies baswedan
+['heeem'],heeem
+[],
+['coba'],coba
+"['manfaat', 'kali', 'berharihari']",manfaat kali berharihari
+['good'],good
+['oce'],oce
+['mantap'],mantap
+['kerenn'],kerenn
+['mantap'],mantap
+['oke'],oke
+"['ganggu', 'bayar', 'ovo']",ganggu bayar ovo
+['good'],good
+['bantu'],bantu
+"['bagus', 'tingkat']",bagus tingkat
+"['bantu', 'proses', 'transaksi', 'jalan']",bantu proses transaksi jalan
+[],
+"['support', 'manfaat']",support manfaat
+"['moda', 'transportasi', 'amanaply', 'ribet']",moda transportasi amanaply ribet
+"['riwayat', 'tiket', 'date', 'baru', 'mohon', 'tanggal', 'jam', 'berangkat', 'datang', 'hilang']",riwayat tiket date baru mohon tanggal jam berangkat datang hilang
+"['sulit', 'layan', 'beli', 'tiket']",sulit layan beli tiket
+"['manfaat', 'update']",manfaat update
+['good'],good
+[],
+"['ngebantu', 'beli', 'tiket', 'bawa', 'kartu']",ngebantu beli tiket bawa kartu
+"['moga', 'manfaat', 'upgradenya', 'moga', 'kembang', 'bug']",moga manfaat upgradenya moga kembang bug
+"['setia', 'pakai', 'mass', 'rapid', 'transit', 'rumah', 'stasiun', 'fatmawati', 'tinggal', 'jalan', 'kaki']",setia pakai mass rapid transit rumah stasiun fatmawati tinggal jalan kaki
+"['hmmm', 'download', 'keburu', 'beli', 'tiket', 'multitrip', 'nya']",hmmm download keburu beli tiket multitrip nya
+['good'],good
+"['msh', 'ajar']",msh ajar
+"['install', 'tau', 'bagus', 'fitur', 'aplikasi']",install tau bagus fitur aplikasi
+['bagus'],bagus
+"['mantap', 'jon']",mantap jon
+['okey'],okey
+['nice'],nice
+['batu'],batu
+['ibib'],ibib
+"['bagus', 'bantu']",bagus bantu
+['thank'],thank
+['mantap'],mantap
+"['bagus', 'aplikasi', 'mudah', 'mesan', 'mass', 'rapid', 'transit', 'krl', 'jakarta']",bagus aplikasi mudah mesan mass rapid transit krl jakarta
+"['bagus', 'sukses', 'buat', 'operasi', 'lancar', '']",bagus sukses buat operasi lancar 
+['bantu'],bantu
+"['sukses', 'depan']",sukses depan
+['mantap'],mantap
+['nice'],nice
+['bagus'],bagus
+['kumon'],kumon
+"['mantap', 'bantu', 'pakai', 'mahal', 'belu', 'kartu']",mantap bantu pakai mahal belu kartu
+['love'],love
+['good'],good
+['bantu'],bantu
+[],
+[],
+"['coba', 'kalo', 'bagus', 'nilai']",coba kalo bagus nilai
+"['buruksysaj', 'masuk']",buruksysaj masuk
+['bagus'],bagus
+"['mantap', 'bantu', 'otw', 'tuju']",mantap bantu otw tuju
+['bagus'],bagus
+['mantul'],mantul
+['bagus'],bagus
+"['mrtlux', 'rapi', 'bersihmantul', 'bangetseperti', 'mass', 'rapid', 'transit', 'singapore', 'usul', 'depan', 'banyak', 'bayar', 'tiket', 'pakai', 'fasilitas', 'link', 'ovo', 'dana', 'gopayitu', 'ajadari', 'sayasukses', 'slalu', 'mass', 'rapid', 'transit']",mrtlux rapi bersihmantul bangetseperti mass rapid transit singapore usul depan banyak bayar tiket pakai fasilitas link ovo dana gopayitu ajadari sayasukses slalu mass rapid transit
+"['bagus', 'manfaat']",bagus manfaat
+"['bagus', 'guna']",bagus guna
+"['lumayan', 'bagus']",lumayan bagus
+['keren'],keren
+['praktisbaguscepat'],praktisbaguscepat
+"['aplikasi', 'bantu']",aplikasi bantu
+"['bantu', 'guna', 'bayar', 'mass', 'rapid', 'transit']",bantu guna bayar mass rapid transit
+"['bantu', 'etiket', 'mass', 'rapid', 'transit']",bantu etiket mass rapid transit
+[],
+[''],
+"['daftar', 'ngga', 'masukmasuk', 'sandi', 'smsnyatingkatin', 'mudah', 'daftar']",daftar ngga masukmasuk sandi smsnyatingkatin mudah daftar
+"['saldo', 'potong', 'eror', 'niat', 'hadehhh']",saldo potong eror niat hadehhh
+"['jeda', 'kereta', 'menit', 'menit', 'numpuk', 'tumpang', 'nunggu', 'stasiun', 'mass', 'rapid', 'transit', 'kereta', 'psbb', 'masyarakat', 'suruh', 'taat', 'atur', 'psbb', 'manajemen', 'mass', 'rapid', 'transit', 'bikin', 'tumpang', 'numpuk', 'logika', 'manajemen']",jeda kereta menit menit numpuk tumpang nunggu stasiun mass rapid transit kereta psbb masyarakat suruh taat atur psbb manajemen mass rapid transit bikin tumpang numpuk logika manajemen
+"['otp', 'masuk']",otp masuk
+"['nyaman', 'cepat']",nyaman cepat
+"['nungguin', 'notif', 'vertivikasi', 'sms', 'muncul', 'katro', 'dah']",nungguin notif vertivikasi sms muncul katro dah
+"['bug', 'gimana', 'keyboard', 'gabisa', 'muncul', 'ngeklik', 'jalan', 'sinyal', 'bagus', 'gajelas']",bug gimana keyboard gabisa muncul ngeklik jalan sinyal bagus gajelas
+"['ribet', 'code', 'angka', 'verifikasi', 'bt', 'scan', 'link', 'krl', 'simpel', 'goyang', 'hp', 'tinggal', 'scan', 'mudah', 'sistem']",ribet code angka verifikasi bt scan link krl simpel goyang hp tinggal scan mudah sistem
+"['coba2', 'pake', 'beli', 'tiket', 'bawa', 'flash', 'eh', 'ngebantu', 'lancar', 'keren']",coba2 pake beli tiket bawa flash eh ngebantu lancar keren
+"['finallyi', 'love']",finallyi love
+"['gajelas', 'dah', 'unduh', 'gabisa', 'buka', 'mo', 'buka', 'back', 'mulu', 'knp', 'hrs', 'beli', 'tiket', 'kaya', 'gin', 'si', 'bagus', 'bagus', 'loket', 'sulit', 'ajee', 'mohon', 'baik']",gajelas dah unduh gabisa buka mo buka back mulu knp hrs beli tiket kaya gin si bagus bagus loket sulit ajee mohon baik
+['good'],good
+"['coba', 'kali', 'akun', 'nomor', 'verifikasi', 'sinyal', 'bagus', 'alamat', 'email', 'hp', 'pass', 'mohon', 'tingkat', 'bangun', 'sistem', 'mudah', 'akses', 'masyarakat']",coba kali akun nomor verifikasi sinyal bagus alamat email hp pass mohon tingkat bangun sistem mudah akses masyarakat
+['simple'],simple
+"['mudah', 'bayar', 'gopay', 'lancar']",mudah bayar gopay lancar
+"['pas', 'bayar', 'pake', 'link', 'suruh', 'masukin', 'kode', 'verifikasi', 'kirim', 'via', 'sms', 'masuk', 'sms', 'tutup', 'bentar', 'mass', 'rapid', 'transit', 'liat', 'kode', 'sms', 'mass', 'rapid', 'transit', 'beranda', 'gitu', 'kebayarbayarb', 'tu', 'tiket']",pas bayar pake link suruh masukin kode verifikasi kirim via sms masuk sms tutup bentar mass rapid transit liat kode sms mass rapid transit beranda gitu kebayarbayarb tu tiket
+"['beli', 'tiket', 'keluar', 'tiket', 'tuju', 'saldo', 'gopay', 'potong', '2x', 'habis', 'update', 'nge', 'blank', 'buka']",beli tiket keluar tiket tuju saldo gopay potong 2x habis update nge blank buka
+"['mantap', 'mrtnya']",mantap mrtnya
+"['mohon', 'baik', 'sistem', 'tiket', 'jam', 'tutup', 'transaksi', 'beli', 'beli', 'tiket', 'mass', 'rapid', 'transit', 'tutup', 'jam', 'weekend', 'pandemi', 'jam', 'beli', 'tiket', 'alami', 'tiket', 'direfund', 'moga', 'jadi', 'masuk']",mohon baik sistem tiket jam tutup transaksi beli beli tiket mass rapid transit tutup jam weekend pandemi jam beli tiket alami tiket direfund moga jadi masuk
+"['bagus', 'tambah', 'gamenya', 'ganti', 'gamenya', 'jgn', 'bosennn']",bagus tambah gamenya ganti gamenya jgn bosennn
+"['update', 'gabisa', 'payment', 'lambat', 'benah', 'aplikasi']",update gabisa payment lambat benah aplikasi
+"['kereta', 'oke', 'interfacenya', 'tahan']",kereta oke interfacenya tahan
+['aneh'],aneh
+"['ribet', 'instal', 'linknya', 'hubung']",ribet instal linknya hubung
+"['akun', 'isi', 'email', 'nomor', 'telepon', 'gagal', 'akun']",akun isi email nomor telepon gagal akun
+"['terkadang', 'error', 'bayar', 'tiket', 'muncul', 'barcode', 'saldo', 'potong', 'hmm', 'kecewa']",terkadang error bayar tiket muncul barcode saldo potong hmm kecewa
+['guna'],guna
+"['eror', 'mulu', 'stasiun', 'blok', 'ngak', 'dipake', 'sekali', 'lemotselalu', 'bilang', 'ngk', 'internet', 'pdhl', 'wa', 'youtube', 'bagus', 'ngak', 'hambat', 'skrg', 'ubah']",eror mulu stasiun blok ngak dipake sekali lemotselalu bilang ngk internet pdhl wa youtube bagus ngak hambat skrg ubah
+"['layan', 'buruktidak', 'pemberitahuan', 'jam', 'berangkat', 'jam', 'malam', 'jam', 'hbsudh', 'beli', 'tiket', 'hanguskecewa', 'intinyamrt', 'baik', 'lg', 'layananya']",layan buruktidak pemberitahuan jam berangkat jam malam jam hbsudh beli tiket hanguskecewa intinyamrt baik lg layananya
+"['update', 'lgi', 'tiket']",update lgi tiket
+"['masuk2', 'aplikasi', 'yaaa']",masuk2 aplikasi yaaa
+"['mohon', 'maaf', 'info', 'mass', 'rapid', 'transit', 'tutup', 'jam', 'berapa', 'mass', 'rapid', 'transit', 'tutup', 'minim', 'info', 'kaya', 'hr', 'oktober', 'tutup', 'jam', 'jam', 'tutup', 'sen', 'tiket', 'jam', 'set7', 'pas', 'dateng', 'stasiun', 'tutup', 'klo', 'mass', 'rapid', 'transit', 'tutup', 'kasih', 'notif', 'beli', 'tiketudah', 'gitu', 'gaada', 'notifbeli', 'tiket', 'pas', 'mass', 'rapid', 'transit', 'tutup', 'dibeligabisa', 'refund']",mohon maaf info mass rapid transit tutup jam berapa mass rapid transit tutup minim info kaya hr oktober tutup jam jam tutup sen tiket jam set7 pas dateng stasiun tutup klo mass rapid transit tutup kasih notif beli tiketudah gitu gaada notifbeli tiket pas mass rapid transit tutup dibeligabisa refund
+"['almar', 'rajendra', 'khansa', 'xl', 'tbg1']",almar rajendra khansa xl tbg1
+"['gagal', 'beli', 'tiket', 'kali', 'sama', 'wow']",gagal beli tiket kali sama wow
+['good'],good
+"['appk', 'fungsi', 'kluar', 'masuk', 'gagal', 'registrasi', 'gagal', 'trs', 'skrg', 'masuk', 'gagal']",appk fungsi kluar masuk gagal registrasi gagal trs skrg masuk gagal
+"['design', 'ui', 'uxnya', 'buruk']",design ui uxnya buruk
+"['mendaftartdk', 'kode', 'verifikasi']",mendaftartdk kode verifikasi
+"['aplikasi', 'payah', 'bantu', 'masukin', 'data', 'bener', 'tetep', 'proses', 'verifikasi', 'detil', 'mesti', 'sms', 'email']",aplikasi payah bantu masukin data bener tetep proses verifikasi detil mesti sms email
+"['mass', 'rapid', 'transit', 'bagus', 'nyaman', 'tap', 'maaf', 'apk', 'ngehe', 'beli', 'tiket', 'gagal', 'eh', 'tau', 'beli', 'tiket', 'kali', 'ilang', 'dah', 'gopay', 'ku', 'otomatis', 'uninstall']",mass rapid transit bagus nyaman tap maaf apk ngehe beli tiket gagal eh tau beli tiket kali ilang dah gopay ku otomatis uninstall
+"['masukin', 'hp', 'ko', 'dpt', 'kode', 'verifikasi', 'yudh', 'ulang', 'berkali2']",masukin hp ko dpt kode verifikasi yudh ulang berkali2
+"['mudah', 'mass', 'rapid', 'transit', '']",mudah mass rapid transit 
+"['ribetttttt', 'sulit', 'donk', 'bengkrak', 'lho', 'sulit', 'gin']",ribetttttt sulit donk bengkrak lho sulit gin
+"['masukin', 'email', 'sma', 'nohp', 'bnermlah', 'slah', 'mulu', 'pdhal', 'sring', 'bget', 'mrtberharap', 'jdi', 'lbih', 'gampangmlah']",masukin email sma nohp bnermlah slah mulu pdhal sring bget mrtberharap jdi lbih gampangmlah
+['mudah'],mudah
+['mantap'],mantap
+"['lokasi', 'stasiun', 'liat', 'konektivitas', 'ngak', 'buka']",lokasi stasiun liat konektivitas ngak buka
+['bagus'],bagus
+"['mudah', 'lupa', 'bawa', 'kartu', 'emoney', 'tinggal', 'tap', 'doang', 'beres', 'bantu', 'sekaliii']",mudah lupa bawa kartu emoney tinggal tap doang beres bantu sekaliii
+"['ribet', 'sistem', 'beli', 'tiket', 'kudu', 'nentuin', 'tuju', 'app', 'langsung', 'potong', 'kayak', 'pake', 'emoney', 'rikues', 'update', 'pake', 'sistem', 'kayak', 'commuterline', 'scan', 'masuk', 'gerbang', 'saldo', 'otomatis', 'potong', 'sisa', 'refund', 'pas', 'gate', 'plus', 'tambahin', 'support', 'nfc', 'tinggal', 'tap', 'hp', 'kayak', 'pake', 'emoney']",ribet sistem beli tiket kudu nentuin tuju app langsung potong kayak pake emoney rikues update pake sistem kayak commuterline scan masuk gerbang saldo otomatis potong sisa refund pas gate plus tambahin support nfc tinggal tap hp kayak pake emoney
+[],
+"['ni', 'gimna', 'gabsa', 'akses', 'ganggu']",ni gimna gabsa akses ganggu
+"['bagus', 'kendala']",bagus kendala
+"['mesti', 'model', 'jgn', 'model', 'beli', 'tiket', 'jalan', 'lgsg', 'potong', 'ewallet', 'model', 'saldo', 'tinggal', 'potong', 'stasiun', 'lwt', 'nfcqr', 'code', 'enak', 'langsung', 'potong', 'saldo', 'ewallet', 'tinggal', 'tap', 'intap', 'gt']",mesti model jgn model beli tiket jalan lgsg potong ewallet model saldo tinggal potong stasiun lwt nfcqr code enak langsung potong saldo ewallet tinggal tap intap gt
+"['payah', 'niat', 'gaya', 'log', 'susah']",payah niat gaya log susah
+"['susahx', 'regist']",susahx regist
+"['sistem', 'auto', 'potong', 'saldo', 'ovo', 'ato', 'dana', 'mesti', 'beli', 'tiket', 'jalan', 'bayar', 'pake', 'dana', 'ovo', 'repotttt', 'pulang', 'pergi', 'pake', 'mass', 'rapid', 'transit', 'mudah']",sistem auto potong saldo ovo ato dana mesti beli tiket jalan bayar pake dana ovo repotttt pulang pergi pake mass rapid transit mudah
+"['coba', 'pdhl', 'bln', 'kali', 'download', 'tetep']",coba pdhl bln kali download tetep
+[],
+"['register', 'susah', 'email', 'nope', 'bener', 'bilang', 'salah', 'via', 'fb', 'twtr', 'filed', 'trs', 'guna']",register susah email nope bener bilang salah via fb twtr filed trs guna
+"['bagus', 'mes', 'tiket', 'faham']",bagus mes tiket faham
+"['resmi', 'presiden', 'republik', 'indonesia', 'insinyur', 'haji', 'joko', 'widodo']",resmi presiden republik indonesia insinyur haji joko widodo
+['nyoba'],nyoba
+['excellent'],excellent
+"['bayar', 'pake', 'kartu', 'kredit', 'debit']",bayar pake kartu kredit debit
+"['tap', 'lupa', 'password', 'masuk', 'nomor', 'handphone', 'sudsh', 'anggap', 'format', 'handphone', 'masuk', 'salah']",tap lupa password masuk nomor handphone sudsh anggap format handphone masuk salah
+['semangat'],semangat
+['good'],good
+['good'],good
+"['mass', 'rapid', 'transit', 'ny', 'tlg', 'bsa', 'instal', 'lg', 'yaa', 'tlg', 'instal', 'lg', 'biar', 'nyebelin']",mass rapid transit ny tlg bsa instal lg yaa tlg instal lg biar nyebelin
+"['informatif', 'sayang', 'seakanakan', 'yah']",informatif sayang seakanakan yah
+"['saldo', 'isi', 'pakai', 'wallet', 'mass', 'rapid', 'transit']",saldo isi pakai wallet mass rapid transit
+"['cek', 'jadwal', 'mass', 'rapid', 'transit']",cek jadwal mass rapid transit
+"['maaf', 'bintang', 'dlu', 'karna', 'install', 'error', 'halaman']",maaf bintang dlu karna install error halaman
+[],
+"['force', 'close']",force close
+['bagus'],bagus
+"['bagus', 'tau', 'mass', 'rapid', 'transit']",bagus tau mass rapid transit
+"['informasi', 'jadwal', 'berangkat']",informasi jadwal berangkat
+"['update', 'alarm', 'datang', 'alarm', 'berangkat', 'alarm', 'stasiun', 'tuju']",update alarm datang alarm berangkat alarm stasiun tuju
+['bantu'],bantu
+['bagus'],bagus
+"['bantu', 'informasi', 'jadwal', 'mass', 'rapid', 'transit']",bantu informasi jadwal mass rapid transit
+['bagoouuussss'],bagoouuussss
+"['sae', 'pis', 'jkt', 'aya', 'mass', 'rapid', 'transit']",sae pis jkt aya mass rapid transit
+"['senang', 'mass', 'rapid', 'transit', 'gampang']",senang mass rapid transit gampang
+['bantu'],bantu
+"['bagus', 'oke', 'mantap']",bagus oke mantap
+"['mudah2an', 'daerah', 'bekas', 'cepat', 'rampung', 'macet', 'tol', '']",mudah2an daerah bekas cepat rampung macet tol 
+['bagus'],bagus
+"['bagus', 'infomasi', 'lengkap', 'posisi', 'kereta', 'livestreaming', 'layar', 'occ']",bagus infomasi lengkap posisi kereta livestreaming layar occ
+[],
+"['bagus', 'suka', 'mass', 'rapid', 'transit', 'jakarta']",bagus suka mass rapid transit jakarta
+['anjayyy'],anjayyy
+['athir'],athir
+[],
+"['estimasi', 'berangkat', 'setasiun', 'pilih']",estimasi berangkat setasiun pilih
+"['hati', 'senang', 'mass', 'rapid', 'transit', 'lari', 'suooos', 'banter', 'kencang', 'onta', 'nyengir', 'ngiiiie']",hati senang mass rapid transit lari suooos banter kencang onta nyengir ngiiiie
+"['uninstal', 'point', 'point', 'ig', 'mass', 'rapid', 'transit', 'jakarta', 'pas', 'instal', 'point', 'nol', 'anggap', 'guna', 'tamu', 'mulu', 'tulis', 'kolom', 'berita', 'bayang', 'baca']",uninstal point point ig mass rapid transit jakarta pas instal point nol anggap guna tamu mulu tulis kolom berita bayang baca
+"['mantul', 'mantap']",mantul mantap
+['good'],good
+"['mass', 'rapid', 'transit', 'bagus', 'trsnsportasi', 'masal']",mass rapid transit bagus trsnsportasi masal
+['coba'],coba
+"['ni', 'aman', 'aplikasi', 'mantap', 'jiwa']",ni aman aplikasi mantap jiwa
+"['kacau', 'brangkat', 'kantor', 'hr', 'rabu', 'april', 'bunderan', 'pintu', 'pertamina', 'tutup', 'buka', 'arah', 'pullman', 'tugas', 'manajemen', 'antri', 'kacau', 'gratis', 'kemarin', 'edukasi', 'laku', 'duduk', 'disabilitas', 'eskalator', 'antri', 'masuk', 'loading', 'gate', 'detik', 'responnya', 'tau', 'tarif', 'normal', 'peak', 'kaya']",kacau brangkat kantor hr rabu april bunderan pintu pertamina tutup buka arah pullman tugas manajemen antri kacau gratis kemarin edukasi laku duduk disabilitas eskalator antri masuk loading gate detik responnya tau tarif normal peak kaya
+['good'],good
+['kagum'],kagum
+"['', 'bagus']", bagus
+['download'],download
+['baik'],baik
+['bagus'],bagus
+['kereen'],kereen
+[''],
+"['mass', 'rapid', 'transit', 'nyaman']",mass rapid transit nyaman
+"['kereta', 'nyamankecepatan', 'budaya', 'kereta', 'mesti', 'diedukasitermasuk', 'jaga', 'bersih']",kereta nyamankecepatan budaya kereta mesti diedukasitermasuk jaga bersih
+"['antri', 'kasihan', 'lansian', 'hamil', 'anak']",antri kasihan lansian hamil anak
+"['gabisa', 'bikin', 'akun', 'klik', 'gabisa', 'akun']",gabisa bikin akun klik gabisa akun
+"['susah', 'bener']",susah bener
+['good'],good
+"['mass', 'rapid', 'transit', 'oke', 'bnget']",mass rapid transit oke bnget
+[],
+"['bagus', 'aplikasi', 'tingkat', 'layan', 'kereta', 'mrtnya']",bagus aplikasi tingkat layan kereta mrtnya
+"['good', 'flash', 'service']",good flash service
+['login'],login
+"['indonesia', 'milik', 'transportasi', 'massal', 'kelas']",indonesia milik transportasi massal kelas
+"['alhamdulillah', 'rasa', 'mrtjakarta', 'serba', 'tertib', 'atur', 'cepat', 'bebas', 'macet']",alhamdulillah rasa mrtjakarta serba tertib atur cepat bebas macet
+"['nyaman', 'cepat']",nyaman cepat
+['bangga'],bangga
+"['coba', 'ahh']",coba ahh
+"['ribet', 'beli', 'tiket']",ribet beli tiket
+"['bagus', 'lancar']",bagus lancar
+['lengkap'],lengkap
+['mantulbersihnyamanaman'],mantulbersihnyamanaman
+"['sesuai', 'wakru', 'singkat']",sesuai wakru singkat
+"['keren', 'canggih', 'lucu', 'aman', 'tertib', 'bersih', 'nyaman', 'ramah', 'disabilitas', 'cepat', 'indonesia', 'maju', 'wifi', '5g', '4g', 'fasilitas', 'hrs', 'lengkap', 'kereeeeeeeeeeen', 'sekaliiiiiiiiiiiiiiii']",keren canggih lucu aman tertib bersih nyaman ramah disabilitas cepat indonesia maju wifi 5g 4g fasilitas hrs lengkap kereeeeeeeeeeen sekaliiiiiiiiiiiiiiii
+"['moga', 'lancar', 'mudah']",moga lancar mudah
+"['guna', 'tamu']",guna tamu
+"['ntuk', 'prtama', 'kalix', 'bgitu', 'takjub', '']",ntuk prtama kalix bgitu takjub 
+"['nyaman', 'okk', 'bngt', 'mass', 'rapid', 'transit']",nyaman okk bngt mass rapid transit
+['mantaf'],mantaf
+"['ayo', 'mass', 'rapid', 'transit', 'jakarta']",ayo mass rapid transit jakarta
+['mantab'],mantab
+"['mass', 'rapid', 'transit']",mass rapid transit
+"['stabil', 'susah', 'akses']",stabil susah akses
+"['kyanya', 'tahap', 'kembang', 'bukti', 'gue', 'enter', 'username', 'gpp', 'gue', 'tunggu', 'updatenya', 'deh']",kyanya tahap kembang bukti gue enter username gpp gue tunggu updatenya deh
+"['bikin', 'updatenya', 'pantesan', 'server', 'download', 'versi']",bikin updatenya pantesan server download versi
+"['bantu', 'jalan', 'aman', 'lancar', 'nyaman', 'moga', 'jaya']",bantu jalan aman lancar nyaman moga jaya
+"['bagus', 'jalan', 'cepat']",bagus jalan cepat
+"['klik', 'login', 'langsung', 'login', 'username', 'password', 'aman', 'cek', 'saldo', 'isi', 'ulang', 'akunkartu', 'masuk', 'mohon', 'revisi', 'mas', 'informasi', 'layak', 'mobile', 'apps', 'jenis', 'halaman', 'button', 'login']",klik login langsung login username password aman cek saldo isi ulang akunkartu masuk mohon revisi mas informasi layak mobile apps jenis halaman button login
+['mantap'],mantap
+['bagus'],bagus
+"['sayang', 'pas', 'pencet', 'login', 'masuk']",sayang pas pencet login masuk
+"['keduax', 'gan']",keduax gan
+"['pertamax', 'gan']",pertamax gan
